@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below. Please cite the article once it is published."
+title: "Beyond Component Testing: Validating Agentic AI Systems — review data"
+type: dataset
+authors:
+  - given-names: Fabio Orazio
+    family-names: Mirto
+  - given-names: Luca
+    family-names: "D'Agati"
+  - given-names: Giuseppe
+    family-names: Tricomi
+  - given-names: Stefano
+    family-names: Silvestri
+  - given-names: Francesco
+    family-names: Longo
+  - given-names: Antonio
+    family-names: Puliafito
+  - given-names: Giovanni
+    family-names: Merlino
+license: CC-BY-4.0
+keywords:
+  - agentic AI
+  - validation
+  - systematic mapping study
+  - PRISMA

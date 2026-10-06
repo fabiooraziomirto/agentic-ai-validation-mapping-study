@@ -1,0 +1,8 @@
+# regenerated tables (python3 scripts/reproduce.py --write build/)
+build/
+__pycache__/
+*.pyc
+.DS_Store
+._*
+__MACOSX/
+*.bak

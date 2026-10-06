@@ -1,0 +1,10 @@
+Semantic Scholar
+================
+Records retrieved (export count): 403
+
+
+Final query (Semantic Scholar syntax)
+-------------------------------------
+("agentic" OR "autonomous agent" OR "LLM agent")
+AND ("validation" OR "testing" OR "verification")
+AND ("trajectory" OR "tool use" OR "stateful")

@@ -1,0 +1,263 @@
+study_id,type,memory,planning,tool_use,environment,human,adaptation,agents,risk,confidence,evidence
+2,empirical,session,explicit,yes,real,none,none,multi,low,high,Four-agent LLM framework Planner Executor Generator Judge; 95% accuracy on 1000-question DynamoDB benchmark
+3,conceptual,n/a,explicit,yes,real,on_the_loop,none,multi,high,medium,Maps AI Risk Atlas to EU AI Act assurance case for agentic GenAI; conceptual framework without experiments
+4,empirical,session,explicit,yes,simulated,none,none,multi,low,high,ASG gating for LLM multi-agent systems; evaluated with five configurations and eight seeds; 91.7% team success
+8,conceptual,none,none,no,real,on_the_loop,updates,multi,high,medium,MASSIV framework for fleet telemetry runtime assurance of autonomous vehicles; proposed approach; no LLM
+9,survey,persistent,explicit,yes,real,n/a,n/a,multi,n/a,high,Survey of threats defenses and evaluation for LLM-powered agentic AI with planning tool use memory
+10,empirical,session,explicit,yes,real,in_the_loop,none,single,medium,medium,COSTAR planner plus verified executor on Bedrock agents; evaluated on GAIA AgentBench SWE-bench and enterprise workflows
+11,empirical,session,implicit,yes,real,none,none,single,medium,high,Exploratory case study benchmark; 25 trials five tasks with OpenAI Anthropic open-source computer-use agents
+15,empirical,session,implicit,yes,real,none,none,single,low,high,Passerine ReAct repair agent on Google internal tools; GITS-Eval 178 bugs; plausible patch for 73% machine-reported and 25.6% human-reported bugs with 20 trajectories
+16,empirical,session,explicit,yes,simulated,none,none,multi,low,high,Benchmark of 34 tasks; three agent frameworks with two LLM backbones; failure taxonomy; ~50% completion
+18,empirical,session,none,no,simulated,none,none,multi,low,medium,RefuteBench 2.0 uses LLM agents as refuters and evaluators; experiments on various LLMs
+19,empirical,session,implicit,yes,real,in_the_loop,none,single,low,high,AURA speech agent cascaded ASR LLM TTS with tools; VoiceBench scores and human evaluation 90% task success
+23,empirical,session,implicit,yes,simulated,none,none,single,high,high,Unified benchmark comparing RAG Self-RAG Agentic RAG with same base model in insurance legal healthcare
+24,empirical,session,implicit,yes,simulated,none,none,multi,medium,medium,Provenance-aware multi-agent prompt injection defense with sanitizer and validator agents; experimental detection results
+28,conceptual,n/a,none,n/a,real,n/a,n/a,single,high,high,Work-in-progress assurance patterns for autonomous inspection robots; illustrative road verge case study; not LLM
+32,empirical,session,n/a,yes,simulated,in_the_loop,updates,multi,medium,medium,Evaluation across 500 simulated agents and 50000 interactions; 94.7% violation detection; monitors LLM-based agents via privacy sub-agents
+33,guidance,n/a,n/a,n/a,real,n/a,self_evolving,n/a,high,medium,Guidance for continuous validation of aviation assurance cases via Safety Performance Indicators; extends UL 4600; learning systems; no evaluation; no LLM
+34,empirical,n/a,none,no,none,none,none,single,high,medium,"ACME tool validates GSN/SACM assurance cases with CNL rules; AUV Last Response Engine RoboChart model, no simulation runs; efficiency study with 2 experts and 5 students; no LLM"
+35,empirical,persistent,explicit,yes,simulated,none,none,single,low,medium,Two LLM agents (stateless vs stateful with planning and memory) run in sandbox; behaviour mapped to Autonomous Attack Chain phases
+36,conceptual,session,explicit,yes,simulated,on_the_loop,self_evolving,single,low,medium,Proof-of-concept runtime verification framework with probabilistic model checking; illustrated on LLM-based RepairAgent; no quantitative evaluation
+37,empirical,none,n/a,n/a,simulated,none,none,single,high,low,Quantum verification in explainable agent loop; evaluated on simulated benchmark control and compliance environments; RL policy networks not LLM
+38,empirical,persistent,explicit,yes,real,in_the_loop,none,multi,high,high,LLM-based multi-agent agentic-RAG for drive commissioning; human-in-the-loop; 100% encoder accuracy and 86.29% troubleshooting correctness
+43,guidance,n/a,n/a,n/a,real,n/a,n/a,n/a,high,high,Guidance for assurance cases for autonomous aircraft in SoS based on UL 4600; no evaluation; no LLM
+44,empirical,session,explicit,no,none,none,none,multi,low,high,Planner-Executor-Critic LLM pipeline with blame attribution; 8 configurations of GPT-4o Claude Sonnet 4 Gemini 2.5 Pro on AgiEval PythonIO LogiQA multiple-choice items
+46,conceptual,persistent,explicit,yes,n/a,n/a,self_evolving,multi,n/a,high,AgentOps framework and six-stage automation pipeline for LLM-powered agentic systems; no experimental evaluation
+57,empirical,session,implicit,yes,none,none,none,multi,medium,medium,Multi-agent LLM compliance auditing of MLOps pipelines against EU AI Act GDPR and 3GPP with dual vector/graph RAG; CrewAI on local open-source LLMs; 20 telecom use cases with expert and LLM-as-a-judge evaluation
+58,empirical,session,implicit,yes,real,none,none,single,high,high,Host-side MCP access-control wrapper; 1080 runs on real MCP repository tasks with GPT-5 Claude Sonnet 4 Grok-4 and 3 attack simulations; L2 blocks 100% unsafe calls; approvals rule-based in evaluation
+59,empirical,none,none,no,simulated,none,none,single,high,high,ReSonAte dynamic risk estimation using Bow-Tie Diagrams; effectiveness shown in CARLA and UUV simulations over 600 executions
+60,empirical,none,none,no,real,on_the_loop,none,multi,high,high,Interlocking safety cases for UAVs; evaluated via ISAC development and simulations and outdoor field-study with physical UAVs
+62,empirical,none,implicit,no,simulated,none,n/a,single,high,medium,Threshold-triggered DQN self-healing agent; emulated SDN testbed for wind power plant networks; 53.84% recovery improvement over baseline
+64,empirical,session,explicit,yes,simulated,none,none,multi,medium,high,MACAW multi-agent LLM+RAG policy compliance framework with planning and tool use; F1 83-99% vs expert consensus on two policy sets
+65,empirical,session,explicit,yes,simulated,none,none,multi,medium,medium,Nemesis LLM-based Red Blue Judge agents for vulnerability discovery and patching; evaluated on open-source apps vs SAST tools
+66,empirical,session,explicit,n/a,simulated,none,none,multi,low,medium,AG2 multi-agent LLM team automates prompt leakage attacks on target LLMs; experiments across predefined models and baselines
+69,empirical,session,n/a,n/a,none,n/a,none,multi,medium,medium,Evaluation on benchmark: LogicMP 82.5% acc vs 71.0% LLM detection; symbolic rule engine plus neural LLM agent
+71,empirical,session,implicit,no,none,none,none,multi,low,high,Experiments on five datasets and four LVLMs reduce ASR 7-19%; Shield Responder Evaluator Reflector agents
+73,conceptual,n/a,n/a,yes,n/a,n/a,none,multi,medium,medium,We present a conceptual framework for agentic workflow-level instrumentation and agent-level safeguards; foundation model agents
+76,empirical,n/a,explicit,yes,simulated,n/a,none,n/a,medium,medium,Proposes zero-trust agent platform and evaluates through simulation; LLM agents decompose plan and call services
+78,empirical,session,implicit,yes,simulated,n/a,none,single,medium,medium,Domain-adaptive LLM agent for Text-to-SQL in VTS; curated benchmark and experiments outperform baselines
+80,empirical,session,n/a,yes,simulated,n/a,none,multi,medium,medium,Multi-agent governance architecture with LLM RAG and OPA policies; evaluated on synthetic and real enterprise prompts
+83,empirical,session,explicit,yes,none,none,none,multi,low,high,SEMAP protocol for multi-agent LLMs; empirical evaluation with MAST shows up to 69.6% failure reduction
+84,empirical,session,explicit,yes,simulated,n/a,none,multi,high,medium,APG LLM multi-agent framework for power system simulation plans; experiments surpass direct prompting
+85,empirical,n/a,implicit,n/a,none,n/a,none,multi,low,medium,Accountability tactic for LLM multi-agent systems; proof-of-concept and comparative case study vs baseline
+91,empirical,session,implicit,no,none,none,none,multi,low,high,ASPIRE LLM multi-agent static analysis; ~56% verdict accuracy on Codeforces dataset with 33% gain from multi-agent
+96,conceptual,none,none,no,real,n/a,none,single,high,high,Approach to safety assurance case for DNN-based aviation landing function; illustrated with running example; no LLM
+97,empirical,n/a,implicit,n/a,none,none,none,multi,low,high,Meta-agentic LLM framework with module cross-module RAG agents; evaluated on 55 Python programs
+101,empirical,session,none,yes,simulated,none,none,single,low,high,PromptArmor prompts off-the-shelf LLM to remove injections; FPR and FNR below 1% on AgentDojo
+102,survey,n/a,n/a,yes,n/a,n/a,n/a,multi,high,medium,Review of state-of-the-art guardrail techniques for LLM-based agents in 6G AI-RAN; taxonomy of model-level and agent-level guardrails
+104,empirical,n/a,explicit,yes,simulated,none,none,single,medium,medium,Topology-aware active LLM agent controls telemetry resolution; F1 0.95 vs heuristic 0.65 in physics-based simulation
+108,conceptual,persistent,n/a,yes,n/a,n/a,n/a,multi,n/a,medium,Proposes 16 Agent Security Test Process Areas extending TMMi; no empirical evaluation; targets LLM agents
+109,empirical,n/a,implicit,yes,simulated,none,none,single,low,high,Evaluates 4892 patches from 10 top SWE-Bench agents on 500 GitHub issues for code quality
+112,empirical,persistent,explicit,yes,simulated,n/a,none,multi,low,high,ASIC-Agent multi-agent LLM system with vector DB and sandbox tools; evaluated on new ASIC-Agent-Bench with several base LLMs
+114,empirical,session,implicit,yes,real,none,none,multi,medium,high,Multi-agent LLM approach with virtual device farm tests TikTok; 24 tasks 75% coverage; found 26 bugs in real testing platform
+118,empirical,n/a,explicit,n/a,none,none,none,multi,low,medium,Multi-agent LLM framework generates workflows from NL; evaluated on FinQA-Workflow benchmark with 3.46% accuracy gain
+119,empirical,n/a,explicit,yes,none,none,none,multi,medium,medium,Agentic RAG architecture of specialised agents; evaluated vs baseline RAG on 85 QA triples from enterprise fintech KB
+120,empirical,n/a,n/a,yes,simulated,none,none,single,low,medium,Forensic framework analyzing LLM agent logs for indirect prompt injection; preliminary results using 12 LLMs on agentic benchmark
+124,empirical,session,explicit,yes,simulated,none,self_evolving,multi,high,high,Zero-sum game between two LLM agents co-evolving driving policy in highway-env; lower collision rate than baselines
+126,empirical,session,implicit,yes,simulated,n/a,self_evolving,multi,high,medium,LLM agents (enricher; driver; validator) generate J-turn parameters iteratively in CARLA without retraining; successful J-turns
+130,empirical,n/a,explicit,yes,none,none,none,multi,medium,medium,LLM multi-agent protocol consistency verification; average F1 82.7% on five network protocols
+131,empirical,session,explicit,yes,simulated,none,none,multi,low,high,Evaluates LLM agents on graph-based victim rescue task with coordination metrics such as success rate and redundant actions
+134,empirical,session,explicit,yes,real,none,none,multi,high,high,Evaluation on 3000 PyPI packages (98.4% recall); multi-agent Plan-and-Execute LLM workers plus deterministic security tools
+139,empirical,session,implicit,yes,simulated,none,none,multi,medium,medium,Agentic RAG with three collaborating agents tested against GPT-4 benchmark; 24/25 accuracy on German tasks
+144,conceptual,n/a,implicit,n/a,real,n/a,updates,n/a,high,high,Proposes definition and taxonomy of safety-critical self-adaptive systems; illustrated with water heating example
+145,conceptual,session,explicit,n/a,real,none,self_evolving,single,high,medium,Novel assurance-case-driven MAPE-K paradigm illustrated on F1TENTH racing car; no LLM
+149,empirical,session,explicit,yes,simulated,none,none,single,low,high,System-level measurement of latency energy and power of LLM agents and test-time scaling strategies
+153,conceptual,n/a,n/a,n/a,real,n/a,none,n/a,high,high,Analyses requirements and regulations then proposes generic GSN safety and cybersecurity assurance case for autonomous vessels
+154,empirical,persistent,explicit,yes,simulated,none,self_evolving,multi,low,high,LLM multi-agent trust-aware framework evaluated on eight task scenarios; 87.4% success rate vs baselines
+163,empirical,session,explicit,yes,simulated,in_the_loop,none,multi,low,medium,Observability and workflow practices for LLM code agents (LangChain CrewAI); 98% accuracy on coding tasks
+165,empirical,session,implicit,yes,real,none,none,single,low,high,VLM agent controls Windows 11 GUI; manual evaluation on custom dataset showed failures in task completion
+166,empirical,session,explicit,yes,simulated,in_the_loop,none,multi,high,high,Multi-agent LLM SOC architecture evaluated on 1000 UNSW-NB15 alerts; 0.1% hallucination; analyst validates narratives
+175,empirical,session,explicit,yes,simulated,none,none,single,high,high,AutoONBench benchmark for LLM agents in optical networks with digital twin and tools; evaluates commercial LLMs
+182,empirical,n/a,explicit,n/a,real,in_the_loop,none,single,high,medium,Assurance case and hazard analysis applied to planning and execution software on a CubeSat; case study with engineers
+183,empirical,n/a,explicit,no,simulated,none,none,multi,high,medium,COORDINATE tool simulates coordination mechanisms in MAS with faulty agents; smart hospital example; no LLM
+190,empirical,session,implicit,no,simulated,none,none,multi,low,high,GNN-based MARL (MAGEC) trained with PPO; ROS 2 simulator patrolling experiments vs prior methods
+197,empirical,session,explicit,no,simulated,none,self_evolving,multi,medium,medium,Multi-agent adversarial self-exploration for self-adaptive systems; feasibility and scalability experiments; no LLM
+198,conceptual,n/a,none,no,simulated,none,none,multi,high,medium,Verification model of agent coordination based on extended Petri nets and automata; no experiments; no LLM
+199,empirical,session,explicit,yes,simulated,none,none,multi,low,high,LLM multiagent framework extending AutoGen with leader and shared memory; compared with CrewAI LangChain Swarm on six tasks and GSM8K
+215,empirical,persistent,explicit,yes,real,n/a,none,multi,medium,medium,Assessment framework with four pillars LLM memory tools environment; validated on Autonomous CloudOps use case with experiments
+218,survey,persistent,explicit,yes,real,n/a,none,n/a,medium,high,Systematic literature review of agentic AI security threats and mitigations; adapts NIST CSF 2.0; LLM-powered agents
+219,conceptual,persistent,explicit,yes,real,n/a,none,multi,medium,high,Proposes ATFAA threat framework and SHIELD mitigations for LLM-based GenAI agents; no empirical evaluation
+220,empirical,session,explicit,n/a,simulated,none,self_evolving,multi,low,high,AgenticEval multi-agent framework generates self-evolving safety benchmark from policy docs; experiments on LLMs e.g. GPT-5 safety drop
+222,guidance,n/a,n/a,n/a,real,n/a,n/a,n/a,high,medium,Process guidance (SACE) for safety assurance of autonomous systems; assurance stages and argument patterns; not LLM-specific
+226,conceptual,persistent,implicit,yes,simulated,in_the_loop,updates,multi,medium,medium,Defines agent drift and Agent Stability Index via simulation-based analysis and theoretical modeling; multi-agent LLM systems
+228,conceptual,session,explicit,yes,real,in_the_loop,none,n/a,high,medium,AGENTSAFE governance framework for LLM-based agentic systems; design runtime and audit controls; scenario-bank evaluation methodology proposed
+230,empirical,session,none,no,simulated,none,updates,multi,medium,medium,Protocol certifying semantic alignment between agents with error bounds; simulations and fine-tuned language models on content moderation
+232,empirical,session,implicit,yes,simulated,none,none,multi,low,medium,TrinityGuard safety evaluation and monitoring framework for LLM-based MAS; case studies across MAS examples with attack probes and LLM judges
+233,conceptual,n/a,n/a,yes,simulated,none,none,multi,medium,medium,Formalizes Agent Cascading Injection attack and outlines benchmarking methodology; no results; LLM-based MAS with A2A and MCP
+235,empirical,session,explicit,yes,simulated,none,updates,multi,high,medium,Controlled simulations across 32 persona sets on telecom GMAS safety framework; LLM agents Allocator and Coder; iterative runs
+236,empirical,session,explicit,yes,simulated,none,none,multi,low,high,260 configurations over six agentic benchmarks five architectures three LLM families; controlled evaluation of scaling
+237,empirical,session,implicit,yes,simulated,none,none,multi,high,high,First study of LLM agents in multi-agent CybORG CAGE 4 cyber defense; teams of LLM and RL agents; results compared
+243,empirical,session,implicit,yes,simulated,none,none,single,medium,high,StockBench benchmark evaluating many LLMs as trading agents over multi-month real market data; most fail to beat buy-and-hold
+244,empirical,session,implicit,no,simulated,none,none,single,low,high,Formalizes grading as classifying MDPs; RL agent and classifier; dataset of 711274 student submissions; no LLM used
+251,conceptual,n/a,none,no,real,in_the_loop,updates,multi,high,medium,Methodology for hazard analysis and assurance cases for reconfigurable production systems; demonstrated on quarry site scenario; no LLM
+276,empirical,persistent,explicit,yes,simulated,on_the_loop,none,single,high,medium,EMA2 multi-tier memory architecture for LLM agents; experiments on enterprise QA and task agents show better retrieval and traceability
+282,empirical,session,implicit,yes,simulated,none,none,multi,medium,medium,NetMoniAI agentic framework with LLM reasoning and micro-agents; evaluated on local micro-testbed and NS-3 simulations
+285,empirical,persistent,explicit,yes,simulated,in_the_loop,self_evolving,single,high,medium,SECA-Agent evolving architecture; SECA-Driller prototype for drilling risk; simulation experiments outperform baselines; LLM plus knowledge system
+286,empirical,session,explicit,yes,real,none,none,multi,medium,medium,TerraFault LLM-guided system for finding IaC update bugs; initial prototype found bugs in Terraform updates on cloud
+292,empirical,session,explicit,yes,simulated,none,none,multi,medium,high,ReWOO Chief Agent and ReAct specific agents for telecom OSS; evaluated on four-domain testbed with 30+ REST APIs
+294,empirical,n/a,implicit,n/a,simulated,none,self_evolving,multi,medium,medium,multi-agent reinforcement learning self-healing; experiments on simulated failure scenarios cut recovery time 47%; no LLM
+299,empirical,n/a,implicit,yes,simulated,in_the_loop,none,single,medium,medium,Supervisor Agent with LLM core plus RAG and SOAR tool calls; controlled FortiSIEM testbed; 73% MTTR reduction; tiered HITL
+300,empirical,n/a,explicit,yes,simulated,n/a,none,multi,high,medium,LLM agents plus Digital Twin for fault handling; evaluated on mixing module case study; corrective actions for pipe clogging
+302,empirical,session,implicit,yes,none,in_the_loop,none,single,low,medium,reference architecture plus evaluation of LLaMA GPT Gemini Claude on provenance query classes and a chemistry workflow
+303,empirical,session,implicit,yes,simulated,none,none,multi,low,medium,agent schema language and multi-agent LLM prototype; cybersecurity test cases with OpenAI and DeepSeek models show feasibility
+308,conceptual,n/a,explicit,n/a,n/a,none,none,multi,low,medium,NESSIE framework verifies BDI coordination plans at design time; illustrated with a running example; no LLM
+310,empirical,n/a,explicit,yes,simulated,n/a,none,multi,high,medium,LangChain multi-agent with Hyperledger Fabric; experiments in inventory traffic healthcare; blockchain blocked 14 unsafe actions
+312,empirical,persistent,explicit,n/a,simulated,none,self_evolving,single,low,medium,LLM-driven self-evolving robot agent with task planning tree and SFT; evaluated on digital twin and benchmarks
+316,empirical,persistent,implicit,yes,real,in_the_loop,self_evolving,multi,medium,medium,multi-agent LLM ticket resolution with hybrid memory; preference tuned on 12 months technician feedback; industrial dataset
+321,empirical,session,explicit,yes,simulated,in_the_loop,none,multi,high,medium,multi-agent LLM framework for O-RAN threat mitigation; testbed attacks; human approval before execution; case studies
+322,empirical,n/a,implicit,yes,none,n/a,none,single,medium,medium,LLM AI agent fills compliance checklists; evaluated on real-world data from two processes with 95-98% response accuracy
+323,empirical,session,implicit,yes,none,none,none,multi,low,high,multi-agent LLM RFC audit; evaluated on six protocol implementations; 47 bugs found with 81.9% precision
+324,empirical,n/a,implicit,n/a,none,in_the_loop,none,multi,medium,medium,multi-agent multi-LLM RAG code audit artifact; design science evaluation on one vulnerable repo with auditor review
+325,empirical,persistent,implicit,yes,simulated,none,none,single,high,high,paired-trajectory protocol replaying Conv-FinRe financial dialogues across eight LLMs; ReAct agent with persistent memory under tool corruption
+326,empirical,session,implicit,yes,simulated,none,none,single,low,high,analyzed Toolathlon trajectories of 22 frontier LLMs on 108 tool-use tasks; canonical path adherence predicts success
+327,empirical,n/a,n/a,yes,simulated,none,updates,multi,medium,medium,AMDM algorithm (EWMA plus Mahalanobis) evaluated via simulations and logs; monitors LLM-based multi-agent systems; latency 12.3s to 5.6s
+332,empirical,session,implicit,yes,simulated,none,none,single,low,high,396-task benchmark; 10 open-source LLMs; 23392 episodes; reliability metrics RDC VAF GDS MOP; memory scaffolds hurt
+334,empirical,none,implicit,yes,simulated,none,updates,single,low,high,LLM agent with date-controlled web search tools completing scientific abstracts; temporal effects measured experimentally
+336,conceptual,n/a,n/a,n/a,real,n/a,updates,single,high,medium,proposes ReASSURE framework for reusing assurance evidence for evolving self-adaptive systems; illustrated with AUV examples; no LLM
+337,empirical,n/a,n/a,n/a,real,in_the_loop,updates,multi,high,high,SAFA traceability-based safety case evolution evaluated with user study on Dronology UAV system; not LLM-based
+343,empirical,session,explicit,yes,simulated,none,none,single,low,high,benchmarks five LLM agents in grid-based game WildGrid under partial observability noise and dynamic shifts
+344,conceptual,n/a,n/a,n/a,real,in_the_loop,updates,single,medium,medium,introduces UpBench benchmark framework from real Upwork jobs with expert rubric evaluation; LLM agents; no results reported in text
+347,empirical,persistent,implicit,yes,simulated,none,self_evolving,multi,low,high,controlled causal interventions on experience in four self-evolving LLM agent frameworks; 10 backbones; 9 environments
+348,empirical,none,explicit,yes,simulated,none,self_evolving,single,low,high,SEVerA framework with formal guards on generative models; evaluated on Dafny symbolic regression and tau2-bench; zero constraint violations
+350,conceptual,persistent,implicit,yes,n/a,n/a,self_evolving,single,medium,medium,proposes ASG-SI audited skill-graph self-improvement approach; architecture and evaluation plan only; no experiments
+352,empirical,persistent,implicit,yes,simulated,none,self_evolving,single,low,high,Evo-Memory streaming benchmark evaluating ten plus memory modules across 10 datasets; proposes ExpRAG and ReMem
+353,empirical,persistent,n/a,yes,simulated,none,self_evolving,single,low,high,MemoryAgentBench benchmark; evaluates diverse memory agents (RAG; external memory modules) on four competencies with empirical results
+354,empirical,persistent,n/a,yes,simulated,none,none,single,low,high,StructMemEval benchmark; initial experiments show simple RAG LLMs struggle while memory agents succeed if prompted
+356,empirical,persistent,n/a,yes,simulated,none,updates,single,high,high,Systematic empirical evaluation of memory poisoning attacks and defenses in EHR agents on GPT-4o-mini; Gemini; Llama using MIMIC-III
+357,empirical,persistent,n/a,yes,simulated,none,self_evolving,single,medium,high,Black-box attack on self-evolving LLM agents; evaluated on representative agent setups measuring persistence and unauthorized tool actions
+358,empirical,persistent,implicit,yes,simulated,none,self_evolving,single,medium,high,MemoryGraft attack validated on MetaGPT DataInterpreter with GPT-4o; poisoned RAG experience store induces persistent drift
+359,empirical,persistent,implicit,yes,simulated,none,self_evolving,single,medium,high,A-MemGuard defense with consensus validation and dual memory; evaluated on multiple benchmarks cutting attack success by over 95%
+369,empirical,persistent,implicit,yes,simulated,none,none,single,low,high,AgentLAB benchmark of 644 security test cases in 28 environments; evaluates LLM agents against long-horizon attacks
+370,empirical,session,n/a,yes,simulated,none,none,single,medium,high,Agent-C runtime framework using SMT solving plus constrained LLM generation; evaluated on retail and airline apps with several LLMs
+374,empirical,session,implicit,yes,real,none,updates,single,low,high,Search-time contamination in search-based LLM agents; experiments on HLE; SimpleQA; GPQA show ~3% questions leak answers via HuggingFace
+375,conceptual,n/a,n/a,n/a,real,on_the_loop,self_evolving,n/a,high,medium,Propose a system architecture and dynamic assurance cases for autonomous systems with ML components; illustrative; not LLM-based
+376,conceptual,n/a,n/a,n/a,real,none,updates,single,medium,medium,Introduces MAPE-SAC control loop for security assurance cases; illustrated with autonomous rover example; no LLM
+387,empirical,n/a,n/a,yes,none,none,updates,n/a,high,medium,Demonstrates Evidential Tool Bus on industrial aviation use-case workflow with formal analysis tools; not LLM-based
+389,empirical,session,implicit,yes,simulated,none,none,single,low,high,TicToc dataset of 76 scenarios; evaluates LLM tool-calling decisions vs human preferences under elapsed time; post-training alignment
+390,empirical,session,explicit,no,simulated,none,none,single,medium,medium,Centrality-based change impact of adaptations on security assurance cases; evaluated with experiments; no LLM
+395,conceptual,n/a,none,no,simulated,in_the_loop,none,single,high,medium,Proposed AV-TEP safety case framework with three pillars; validation methodology outlined; no LLM
+396,survey,n/a,n/a,n/a,none,none,none,n/a,high,high,Analyse 1300+ benchmark papers against public-sector criteria via expert-validated LLM-assisted pipeline; about LLM agents
+397,conceptual,n/a,none,no,real,in_the_loop,none,single,high,medium,SAFE-RL framework via design science; demonstrated through examples on sUAS RL; no LLM
+398,conceptual,n/a,none,no,simulated,in_the_loop,none,single,high,medium,Methodology and complete safety case for RL component of Quanser Qcar; lessons learned; not LLM
+399,empirical,session,explicit,yes,simulated,none,none,multi,medium,medium,Orchestration protocol for LLM agents with policy engine; simulations compare to naive centralized LLM workflow
+401,empirical,persistent,explicit,yes,real,none,none,multi,medium,high,PROV-AGENT provenance model for LLM agentic workflows with cross-facility evaluation edge cloud HPC
+403,conceptual,session,implicit,yes,simulated,on_the_loop,none,single,high,high,Safety case sketch for hypothetical LLM agent not exfiltrating data using AI control evaluation; no own experiments
+409,empirical,n/a,none,no,simulated,none,none,single,high,low,Applies Isabelle/SACM to fragment of AUV assurance case with RoboChart model; case study; no LLM
+410,conceptual,n/a,implicit,yes,none,in_the_loop,none,single,high,medium,Approach for using AI agents in ISO 26262 tool qualification and safety compliance; conceptual no evaluation
+411,empirical,persistent,explicit,yes,simulated,none,none,multi,medium,medium,Prototype blockchain-backed multi-agent LLM code assistants; simulated developer scenarios
+412,conceptual,n/a,none,no,real,on_the_loop,none,single,high,medium,Hazard analysis with bow-tie diagrams for UGV motion termination safety architecture; position; ML autonomy not LLM
+415,empirical,persistent,explicit,yes,real,none,none,multi,medium,medium,A2A Routing Service implemented and deployed in practical environment; empirical findings on auditability and security
+417,empirical,n/a,n/a,yes,simulated,none,none,single,high,medium,4705 agentic runs in three synthetic financial tasks; tool-using LLM agents; DFAH measurement framework
+420,empirical,n/a,n/a,yes,real,none,none,single,high,medium,VET framework implemented for API-based LLM agent; evaluated overhead and trading agent case study
+422,conceptual,n/a,n/a,n/a,real,n/a,n/a,single,high,high,Requirement-based generic safety argumentation structure for automated vehicles; no evaluation; not LLM
+423,conceptual,n/a,n/a,n/a,real,n/a,n/a,multi,high,high,Strategy to populate GSN safety case for mixed traffic in underground mining using STPA; no LLM
+425,empirical,session,explicit,no,simulated,none,none,multi,low,high,LLM-Coordination benchmark; LLM agents in four pure coordination games plus CoordQA; joint planning evaluated
+426,empirical,n/a,explicit,yes,simulated,n/a,none,multi,high,medium,Two studies with CrewAI and AutoGen hierarchical LLM agents in simulated healthcare robot team; coordination failures categorized
+427,empirical,session,none,no,none,none,none,multi,low,high,MAD-SPEAR prompt injection attack on LLM multi-agent debate; experiments on five benchmark datasets
+428,empirical,session,implicit,n/a,simulated,none,none,multi,low,high,Collab-Overcooked LLM-MAS benchmark; experiments with 13 LLMs on 30 tasks in Overcooked-AI
+430,empirical,n/a,none,no,simulated,none,none,multi,low,high,MARL agents in predator-prey simulation; perturbation method to measure coordination; no LLM
+431,empirical,session,implicit,no,simulated,none,updates,multi,low,medium,Evaluation framework where LLMs generate strategies as algorithms for social dilemmas with hundreds of agents; newer vs older models
+432,empirical,persistent,implicit,yes,real,in_the_loop,updates,multi,medium,low,Diagnostic framework with golden/silver datasets and LLM Agent Judge demonstrated on multi-agent recruiter assistant
+433,empirical,n/a,n/a,no,simulated,none,none,multi,high,medium,Counterfactual degree-of-responsibility metric via Shapley value; experiments in CARLA on NHTSA scenarios; no LLM
+434,empirical,session,none,no,none,none,none,multi,low,high,Controlled study of LLM multi-agent debate on Knight-Knave-Spy puzzles with six factors
+435,empirical,persistent,implicit,no,simulated,none,none,multi,low,high,multi-agent simulation of LLM agents with persistent memory; experiments on DeepSeek-V3 GPT-4o-mini GPT-4o 10 runs each
+436,empirical,persistent,explicit,no,simulated,none,none,multi,low,medium,compares human groups and LLM agents (memory and reflection modules) in Melting Pot Tragedy of the Commons; measured cooperative resilience
+437,empirical,session,implicit,no,simulated,none,none,multi,medium,high,experimental framework of buyer and seller LLM agents negotiating; benchmarks multiple LLMs; finds behavioral anomalies causing financial losses
+438,empirical,persistent,explicit,yes,simulated,none,none,multi,low,high,MultiAgentBench benchmark of LLM-based multi-agent systems; milestone KPIs; coordination topologies and cognitive planning evaluated
+439,empirical,persistent,explicit,n/a,simulated,none,none,multi,medium,medium,SagaLLM multi-agent architecture with Saga transactions and persistent memory plus LLM planning; empirical evaluation across planning domains
+440,empirical,session,n/a,no,simulated,none,none,multi,low,medium,simulated LLM agents with probing adversaries; combined defense reduces MI 0.35 to 0.10 and ASR 82% to 29%
+441,empirical,persistent,implicit,n/a,simulated,none,self_evolving,multi,medium,medium,MultiAgentFraudBench simulating 28 fraud scenarios with LLM agents on social platforms; mitigations tested; malicious agents adapt
+442,empirical,session,none,n/a,simulated,none,none,multi,medium,medium,MAGPIE benchmark of 158 scenarios; evaluates LLMs on contextual privacy in multi-agent multi-turn conversations; models leak private info
+444,empirical,persistent,implicit,no,simulated,none,none,multi,low,high,LLM seller agents in simulated continuous double auctions; controlled experiments on collusion; agents have persistent memory store
+445,empirical,session,implicit,n/a,simulated,none,none,multi,low,medium,A-Trust attention-based trust scoring and trust management system for LLM-MAS; experiments show improved robustness to malicious inputs
+447,empirical,session,implicit,yes,none,none,none,multi,medium,medium,QA testing methodology for LLM-based MAS with performance monitoring and LLM evaluation; illustrated on CrewAI event-planning MAS
+448,empirical,session,explicit,no,simulated,in_the_loop,none,multi,low,high,blocks-world environment where two LLM agents or human-LLM pairs collaborate; chain-of-thought with self-reflection; human-machine and machine-machine experiments
+449,empirical,none,none,no,none,none,none,multi,low,high,first study of Mixture-of-Agents robustness to deceptive LLM agents; AlpacaEval LC WR drops 49.2% to 37.9%; defenses proposed
+451,empirical,persistent,implicit,n/a,simulated,none,self_evolving,multi,high,medium,Arena where physician agents evolve via interactions with patient agents; experiments show metric gains with case volume; LLM-based agents (Agent-Kernel)
+452,empirical,session,n/a,n/a,none,none,none,multi,medium,medium,Privacy-regularized training framework for sequential LLM agent pipelines with MI leakage bound; evaluated on three benchmark datasets
+453,empirical,session,implicit,n/a,simulated,none,none,multi,medium,high,Benchmark of 200 high-stakes multi-agent tasks; GPT-5 and Gemini 2.5-Pro leak up to 35-51% of sensitive info
+455,empirical,session,explicit,n/a,none,none,none,multi,medium,high,Legal benchmark (GDPR) for LLM-based MAS with Meta-LLM task decomposition; extensive experiments with SOTA LLMs
+456,empirical,session,implicit,no,simulated,none,none,multi,low,high,Two-agent puzzle environment for LLM communication under information asymmetry; experiments with GPT-5 Claude-4 and open models
+457,empirical,session,implicit,yes,simulated,none,none,multi,medium,high,Simulated two-sided agentic marketplace with LLM Assistant and Service agents; experiments on utility bias and manipulation
+459,empirical,session,n/a,no,simulated,none,none,multi,low,high,LLM agents on Byzantine consensus game; hundreds of simulations across model sizes group sizes and Byzantine fractions
+460,empirical,session,implicit,n/a,simulated,none,none,multi,medium,high,LLM multi-agent governance simulations scored by rubric judge over 28112 transcript segments; governance structure drives corruption
+461,empirical,session,implicit,n/a,simulated,none,none,multi,low,high,Method to evaluate LLM agents in Concordia mixed-motive scenarios; empirical results from NeurIPS 2024 Concordia Contest
+463,empirical,session,explicit,yes,none,none,none,multi,low,high,VeriMAP framework: planner decomposes tasks and encodes verification functions; outperforms single- and multi-agent baselines on datasets
+464,empirical,session,none,no,simulated,none,none,multi,medium,medium,ESOF observability framework evaluated on MAS-441 dataset of simulated runs with up to 50k non-LLM agents in Evosim
+465,empirical,session,explicit,n/a,simulated,none,none,multi,medium,high,Multi-agent sandbox with 40 crime tasks; 8 LLMs evaluated as attacker agents with memory and plan
+466,empirical,session,implicit,yes,simulated,none,none,single,low,high,Evaluates LLM agents on AgentHarm with context padding up to 200K tokens; performance and refusal shifts measured
+468,empirical,session,implicit,n/a,simulated,none,none,multi,low,high,DECIDE-SIM simulation evaluates 11 LLMs in multi-agent survival scenarios; ESRS affective feedback reduces transgressions
+470,empirical,session,implicit,yes,simulated,none,none,single,high,medium,AgentSpec DSL for runtime rule enforcement on LLM agents; evaluated on code; embodied and AV tasks; LLM used to generate rules
+471,empirical,session,implicit,yes,simulated,none,none,single,low,high,Benchmark of 349 environments and 2000 cases; evaluation of 16 LLM agents; none above 60% safety score
+472,empirical,session,implicit,yes,simulated,none,none,multi,low,high,Adaptive prompt-injection attacks on LLM monitors in AI control protocols evaluated on two control benchmarks
+473,empirical,session,implicit,yes,simulated,none,none,single,low,high,Go-Explore adapted for red-teaming GPT-4o-mini agent; 28 runs; seed variance dominates
+474,empirical,session,implicit,n/a,simulated,none,none,single,medium,medium,CMPL auditing framework; multi-turn probing of LLM agents with privacy directives; evaluated across domains
+475,empirical,session,explicit,yes,simulated,none,none,single,low,medium,DREAM dynamic multi-turn red-teaming with knowledge graph and policy search; evaluated on 12 LLM agents; 68% exploits succeed
+476,empirical,persistent,implicit,yes,simulated,none,none,multi,low,high,Canary-token stage tracking of prompt injection on five frontier LLM agents; 764 runs; memory and relay surfaces
+477,empirical,session,implicit,yes,simulated,none,none,single,low,high,Adaptive attacks bypass eight IPI defenses on LLM agents with over 50% ASR
+479,empirical,session,implicit,yes,simulated,none,none,single,low,high,SafeAudit LLM-based test enumerator and rule-resistance metric; 3 benchmarks 12 environments; 20% residual unsafe behaviors
+480,empirical,session,implicit,yes,simulated,none,none,single,low,high,MELON masked re-execution IPI defense evaluated on AgentDojo; outperforms SOTA defenses
+481,empirical,session,implicit,yes,real,none,none,multi,medium,medium,AgentSight eBPF observability for LLM agents with secondary LLM analysis; under 3% overhead; detects prompt injection
+483,empirical,session,explicit,yes,simulated,none,none,single,low,high,SafeAgentBench 750 tasks in simulated embodied environment; 9 LLM-agent baselines weak safety awareness
+484,empirical,session,implicit,yes,simulated,none,none,single,medium,high,Benchmark of 1054 IPI test cases evaluating 30 LLM agents; ReAct GPT-4 vulnerable 24%
+485,empirical,none,none,no,simulated,none,none,single,high,medium,Polaris RTA switching between safe and experimental controllers; satellite simulation shows safety; no LLM
+487,empirical,session,implicit,yes,simulated,none,none,single,low,high,ICON latent-space prober plus attention steering for LLM agents; 0.4% ASR on multiple backbones
+489,empirical,session,implicit,yes,simulated,none,none,single,medium,high,STAC multi-turn tool-chain attack; 483 cases; ASR over 90% on GPT-4.1; reasoning defense prompt
+490,empirical,session,explicit,yes,simulated,in_the_loop,none,multi,medium,high,SafeScientist framework with monitors plus SciSafetyBench 240 tasks; safety improved 35% in experiments
+491,empirical,none,none,no,real,none,none,single,high,high,SOTER RTA framework for robotics; drone case study in simulation and on actual drones; no LLM
+492,empirical,session,explicit,yes,simulated,none,none,single,low,high,MLRC-Bench benchmark of 7 competition tasks; best agent closes only 9.3% of gap; LLM research agents
+493,empirical,session,implicit,yes,simulated,none,none,single,low,high,WildAgtEval benchmark of LLM function calling under API complexity; 60 scenarios; 27.3% drop
+494,empirical,none,none,yes,simulated,none,none,single,low,high,ToolFuzz automated testing of agent tool documentation; evaluated on 32 LangChain and 35 custom tools
+495,empirical,persistent,implicit,yes,simulated,none,none,single,low,high,ETAPP benchmark 800 cases in sandbox for personalized tool invocation; evaluates LLMs with key-point judging
+496,empirical,session,explicit,yes,simulated,none,none,multi,low,high,SimWorld Unreal Engine simulator; demonstrated with frontier LLM agents on multi-agent delivery tasks
+497,empirical,session,explicit,yes,simulated,none,none,multi,high,high,Evaluation of LLM-based pentest agents single to modular with five augmentations; empirical performance
+500,empirical,session,implicit,yes,simulated,none,none,multi,medium,high,Algorithm for LLM agents executing NL GUI test cases with guardrails; experiments on eight LLMs 3B-70B
+501,empirical,persistent,implicit,yes,simulated,none,none,single,low,high,T2QBench 30 environments 1967 QA pairs; experiments on LLM agents and memory mechanisms
+502,empirical,none,implicit,yes,simulated,none,none,single,medium,medium,CMDBench benchmark for data discovery in compound AI systems with LLM agents; experiments show 46% accuracy drop
+503,empirical,session,implicit,yes,simulated,in_the_loop,updates,single,low,medium,ShopSimulator shopping environment; evaluate LLMs with simulated user; best under 40% success; SFT+RL training
+504,empirical,session,implicit,yes,real,in_the_loop,none,single,medium,medium,Evaluation of 20 LLM agents and 3 in depth on 80 real-world CVEs for web vulnerability reproduction
+505,empirical,session,explicit,yes,simulated,none,none,multi,medium,medium,Systematically evaluate LLM agent architectures single and multi-agent for RCA in microservice incident scenarios
+506,empirical,session,explicit,yes,simulated,none,none,single,low,high,Graphectory analysis of 4000 SWE-agent and OpenHands trajectories on SWE-bench; online monitoring improves resolution 6.9-23.5%
+507,empirical,n/a,implicit,yes,simulated,in_the_loop,none,single,low,medium,Sari Sandbox 3D retail sim with VLM-powered embodied agent baseline vs human VR performance
+508,empirical,session,implicit,yes,simulated,none,none,single,low,high,CubeBench Rubik's Cube benchmark; experiments on leading LLMs; 0% pass on long-horizon tasks
+509,empirical,session,explicit,yes,real,none,none,single,high,high,RWE-bench on MIMIC-IV 162 tasks; six LLMs under three agent scaffolds; best 39.9% success
+510,empirical,session,implicit,yes,simulated,none,none,multi,medium,high,SEC-bench multi-agent scaffold builds vulnerability dataset; evaluates LLM code agents on PoC generation and patching
+511,empirical,session,explicit,yes,simulated,none,none,single,low,high,OfficeBench multi-app benchmark; GPT-4 Omni best with 47% pass rate; LLM agents evaluated
+513,empirical,session,implicit,yes,simulated,in_the_loop,none,single,low,high,IDA-Bench multi-round interactive data analysis with LLM-simulated user; best agents succeed under 50%
+515,empirical,session,explicit,no,simulated,none,none,multi,low,medium,GameBench 9 games; GPT-3 and GPT-4 with CoT and RAP scaffolding; none match human performance
+516,empirical,session,implicit,yes,real,none,none,single,medium,high,Empirical evaluation of a ReAct LLM agent with retrieval tools on Microsoft production incidents plus a case study
+517,empirical,session,explicit,yes,real,none,none,single,low,high,Introduces ASSISTANTBENCH 214 web tasks and SeePlanAct LLM web agent; evaluates LMs and agents
+519,empirical,session,implicit,n/a,simulated,none,none,single,medium,medium,50-day live evaluation of 21 LLMs as trading agents on live market data in LiveTradeBench
+520,empirical,session,implicit,no,simulated,none,none,single,low,high,TextQuests benchmark of LLM agents on 25 Infocom text games without external tools; empirical results
+521,empirical,session,n/a,yes,simulated,none,none,single,medium,high,Procedure-Aware Evaluation framework applied to LLM agents on tau-bench; 27-78% of successes are corrupt
+525,empirical,session,explicit,yes,simulated,in_the_loop,none,multi,low,medium,LLM meta-agent ATA generates adversarial tests for conversational agents; evaluated on travel planner and Wikipedia writer vs annotators
+526,empirical,session,explicit,yes,simulated,none,none,single,low,high,Orak benchmark for training and evaluating LLM agents across 12 video games with MCP interface; leaderboards and analyses
+527,empirical,session,explicit,yes,simulated,none,none,multi,high,medium,FedAgentBench benchmark of 24 LLMs as server-client agents automating federated medical image analysis
+528,empirical,session,implicit,yes,simulated,none,none,single,medium,medium,Evaluates production LLM text-to-SQL agents with new Big SQL metrics across frontier models at data scales
+529,empirical,session,implicit,no,simulated,none,none,single,medium,medium,Evaluates generalization of DRL agents (DQN PPO A2C) for VAPT in simulated environment; no LLM
+530,empirical,session,implicit,yes,simulated,none,none,single,low,high,FormulaCode benchmark of 957 performance bottlenecks evaluating LLM coding agents on repositories
+531,empirical,none,none,no,simulated,none,none,single,high,medium,VIVAS framework with formal methods generates scenarios in CARLA for ADS verification; case study; no LLM
+532,empirical,session,implicit,yes,simulated,none,none,single,low,medium,Experimental evaluation of LLM agents generating microservice apps from specifications of varying difficulty
+533,empirical,session,explicit,yes,real,none,none,single,low,high,Benchmark with experiments across LLMs and search engines; agentic RAG with LLM agents on live web
+534,empirical,session,explicit,yes,simulated,none,none,single,low,high,Evaluation dataset benchmarking open and closed LLMs/VLMs on Minecraft crafting planning vs handcrafted planner
+536,empirical,n/a,n/a,yes,real,in_the_loop,updates,single,medium,medium,Benchmark generation from developer intent docs using LLMs; case study of service migration at large enterprise
+537,empirical,session,explicit,yes,simulated,none,none,single,medium,high,AD-Bench from real marketing requests with expert reference trajectories; LLM agents evaluated Pass@1 Pass@3
+538,empirical,session,explicit,yes,simulated,none,none,single,low,high,UltraHorizon benchmark; experiments on LLM agents with human comparison; error analysis of trajectories
+539,empirical,session,explicit,yes,simulated,none,none,single,medium,medium,Live benchmark of six LLMs as autonomous trading agents across US stocks A-shares crypto; returns measured
+540,empirical,session,implicit,yes,simulated,none,none,n/a,medium,medium,Zero-trust framework for LLM agentic vuln scanning; empirically evaluated against adversarial comments and poisoned metadata
+541,empirical,session,n/a,yes,simulated,none,none,single,medium,medium,SoK taxonomy of IPI defenses plus assessment of representative frameworks and three adaptive attacks on LLM agents
+543,empirical,session,implicit,yes,simulated,none,none,single,high,medium,14400 agentic simulations across 12 LLMs in CBRN decision scenarios; three-stage evaluation framework
+544,empirical,session,n/a,yes,simulated,in_the_loop,none,single,medium,medium,CRALA simulator and evaluator for Chinese LLM agent risk; human review of 55 scenarios; GPT-4 tested on 100 cases
+545,empirical,none,none,no,simulated,none,none,single,high,high,GenQPM diffusion-model plus conformal predictive monitoring; evaluated on navigation and autonomous driving benchmarks
+547,empirical,none,none,no,simulated,none,none,single,high,high,ComOpT combinatorial scenario testing tool applied to Apollo 6 in simulation; won 2021 AV testing challenge
+548,empirical,n/a,n/a,yes,none,none,none,single,low,medium,Arbiter framework combining formal rules with multi-LLM scouring applied to Claude Code Codex CLI Gemini CLI prompts; 152 findings
+549,empirical,session,implicit,n/a,simulated,none,none,multi,low,high,Text-based multi-agent Clue testbed; 18 simulated games with GPT-4o-mini and Gemini agents; only 4 correct wins
+550,empirical,session,implicit,yes,real,none,none,single,medium,high,Dynamic expert-curated crypto benchmark; evaluates ten LLMs directly and in SmolAgent framework; retrieval-prediction imbalance
+551,empirical,session,implicit,yes,simulated,none,none,single,low,high,CASA benchmark for LLM web agents cultural awareness; experiments show <10% awareness and >40% violation rates
+553,empirical,session,implicit,yes,simulated,none,none,single,medium,high,Backtesting benchmark with simulator; baselines: random; tool-calling gpt-4.1-nano agent; Bollinger strategy on four Kalshi episodes
+554,empirical,session,implicit,yes,simulated,in_the_loop,none,single,medium,high,LLM-driven proxy state evaluation for multi-turn tool-calling agents; LLM judges; human-LLM judge agreement above 90%
+555,empirical,session,explicit,yes,simulated,none,none,single,medium,high,WirelessBench tool-integrated benchmark; GPT-4o direct 68% vs tool-integrated agent 84.64%; 23% catastrophic errors
+557,empirical,session,implicit,yes,simulated,none,none,single,low,high,ACBench evaluates compressed LLMs (quantization pruning) on agentic tasks across 15 models; 4-bit keeps tool use
+558,empirical,session,implicit,yes,simulated,none,none,single,low,high,VisualWebArena benchmark of visually grounded web tasks; evaluates LLM and multimodal agents; reveals limitations
+559,empirical,session,implicit,yes,simulated,none,none,single,medium,high,ZeroDayBench: LLM agents find and patch 22 novel vulnerabilities; evaluated GPT-5.2 Claude Sonnet 4.5 Grok 4.1; not yet capable
+561,empirical,n/a,n/a,no,real,none,none,n/a,high,medium,Empirical data from testing 25+ autonomy systems over 10 years; bugs found only via safety invariant checking; no LLM

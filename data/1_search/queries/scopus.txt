@@ -1,0 +1,8 @@
+Scopus
+======
+Search window: January 2019 – March 2026 (initial pass: Jan–Apr 2025; refresh pass: Jan 2026 – 25 Apr 2026; second refresh pass: Sep 2026, same query)
+Records retrieved (export count): 306
+
+Core query
+----------
+TITLE-ABS-KEY ( ( agentic OR "autonomous agent" OR "LLM agent" OR "language model agent" ) AND ( validation OR testing OR verification OR assurance OR evaluation ) AND ( trajectory OR "tool use" OR "multi-step" OR memory OR stateful ) ) AND PUBYEAR > 2018 AND PUBYEAR < 2027

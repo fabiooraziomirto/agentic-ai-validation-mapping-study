@@ -1,0 +1,26 @@
+arXiv
+=====
+Records retrieved (export count): 1,256
+
+Platform: arxiv.org, simple search ("All fields"), 200 results per page, sorted by announcement date (newest first). No subject-category filter was applied.
+Search date: not logged. The results include submissions up to 15 April 2026, so the searches were run on or after that date.
+
+Queries executed
+----------------
+Primary query (111 records)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+As entered (copied from the saved results page, including the LaTeX-style quotes and the unbalanced parenthesis after the ti: group):
+
+(ti:(agentic OR ``autonomous agent'' OR ``LLM agent'')) OR abs:(agentic OR ``autonomous agent'' OR ``LLM agent'' OR ``language model agent'')) AND (abs:(validation OR testing OR verification OR assurance OR evaluation OR monitoring)) AND (abs:(trajectory OR ``tool use'' OR ``multi-step'' OR memory OR stateful))
+
+Intended logic:
+
+(ti:(agentic OR "autonomous agent" OR "LLM agent") OR abs:(agentic OR "autonomous agent" OR "LLM agent" OR "language model agent")) AND (abs:(validation OR testing OR verification OR assurance OR evaluation OR monitoring)) AND (abs:(trajectory OR "tool use" OR "multi-step" OR memory OR stateful))
+
+Supplementary query (1,145 records), added to the primary query
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"LLM agent" evaluation
+
+From results to title list
+--------------------------
+The two result sets total 1,256 records. Seven records were returned by both queries and one title appears under two arXiv identifiers, leaving 1,248 unique titles. The date filter uses the first public announcement of the first version (the month in the arXiv identifier): 71 preprints first announced in April 2026 are outside the 1 January 2019 - 31 March 2026 window (nine of them were submitted in March and announced in April), and no record predates 2019. `title_lists/papers_arxiv_merged.csv` lists the remaining 1,177 titles. `../arxiv_records.csv` gives, for each of the 1,249 identifiers, the query, the categories, the submission and announcement dates, and the window decision.

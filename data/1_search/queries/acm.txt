@@ -1,0 +1,12 @@
+ACM Digital Library
+===================
+Records retrieved (export count): 808
+
+
+Final query (ACM Digital Library syntax)
+----------------------------------------
+[[Abstract: "agentic" OR "LLM agent" OR "language model agent"]
+ AND
+ [Abstract: "validation" OR "assurance"]
+ AND
+ [Abstract: "trajectory" OR "tool use"]]

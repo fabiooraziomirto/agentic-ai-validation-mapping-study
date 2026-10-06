@@ -1,0 +1,31 @@
+family,primary_dimension,baseline_cell_count,baseline_dimension_n,baseline_cell_share,excluding_ieee_only_cell_count,excluding_ieee_only_dimension_n,excluding_ieee_only_cell_share,difference_pp
+Benchmarks,behavioral,97,105,92.38,67,72,93.06,0.67
+Benchmarks,safety,38,61,62.3,24,35,68.57,6.28
+Benchmarks,temporal,4,14,28.57,4,6,66.67,38.1
+Benchmarks,regulatory,8,35,22.86,1,6,16.67,-6.19
+Benchmarks,multiagent,36,47,76.6,28,33,84.85,8.25
+Runtime Monitors,behavioral,8,105,7.62,3,72,4.17,-3.45
+Runtime Monitors,safety,32,61,52.46,15,35,42.86,-9.6
+Runtime Monitors,temporal,2,14,14.29,1,6,16.67,2.38
+Runtime Monitors,regulatory,6,35,17.14,2,6,33.33,16.19
+Runtime Monitors,multiagent,10,47,21.28,7,33,21.21,-0.06
+CPS Validation,behavioral,9,105,8.57,5,72,6.94,-1.63
+CPS Validation,safety,6,61,9.84,0,35,0.0,-9.84
+CPS Validation,temporal,1,14,7.14,0,6,0.0,-7.14
+CPS Validation,regulatory,3,35,8.57,0,6,0.0,-8.57
+CPS Validation,multiagent,3,47,6.38,0,33,0.0,-6.38
+Assurance Cases,behavioral,0,105,0.0,0,72,0.0,0.0
+Assurance Cases,safety,3,61,4.92,0,35,0.0,-4.92
+Assurance Cases,temporal,8,14,57.14,0,6,0.0,-57.14
+Assurance Cases,regulatory,20,35,57.14,4,6,66.67,9.52
+Assurance Cases,multiagent,0,47,0.0,0,33,0.0,0.0
+MLOps/Drift,behavioral,2,105,1.9,1,72,1.39,-0.52
+MLOps/Drift,safety,2,61,3.28,1,35,2.86,-0.42
+MLOps/Drift,temporal,5,14,35.71,2,6,33.33,-2.38
+MLOps/Drift,regulatory,2,35,5.71,1,6,16.67,10.95
+MLOps/Drift,multiagent,0,47,0.0,0,33,0.0,0.0
+Reg Guidance,behavioral,0,105,0.0,0,72,0.0,0.0
+Reg Guidance,safety,0,61,0.0,0,35,0.0,0.0
+Reg Guidance,temporal,0,14,0.0,0,6,0.0,0.0
+Reg Guidance,regulatory,13,35,37.14,2,6,33.33,-3.81
+Reg Guidance,multiagent,0,47,0.0,0,33,0.0,0.0

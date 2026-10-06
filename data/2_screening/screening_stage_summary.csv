@@ -1,0 +1,6 @@
+stage,incoming,excluded,retained,note
+identification_retrieved,5187,420,4767,"311 outside the date window, 8 duplicates within arXiv, 101 cross-source duplicates"
+triage_title_then_title_abstract,4767,4261,506,Candidates that match a corpus record; per-record triage decisions not logged
+candidates_from_untraced_routes,0,0,49,Candidates without a corpus match (14 included); route not logged
+candidate_pool,555,0,555,506 triaged + 49 untraced
+all_candidates_full_text,555,293,262,"All read in full text; 293 not retained (275 coded, 18 borderline)"

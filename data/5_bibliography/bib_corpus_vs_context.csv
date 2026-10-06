@@ -1,0 +1,215 @@
+bib_key,title,doi,arxiv_id,study_id,match_method
+ablLlmbased2025,ABL: An LLM-Based Agentic Framework for Applying Black-Litterman Portfolio Optimization,10.1109/BigData66926.2025.11402167,,,
+abouali2025air,"Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future Directions",10.48550/arXiv.2510.25445,2510.25445,,
+accountabilitybasedArchitectural2025,An Accountability-Based Architectural Tactic for Agent Cooperation in LLM-Based Multi-Agent Systems,10.1109/BigData66926.2025.11402340,,85,doi
+acharya2025,Agentic AI: Autonomous Intelligence for Complex Goals--A Comprehensive Survey,10.1109/ACCESS.2025.3532853,,,
+adaptiveCommunication2025,Adaptive Communication Protocols for Manager-Worker Small LLM Multi-Agent Systems in Resource-Constrained Environments,10.1109/DELCON68055.2025.11400330,,,
+adaptiveSemantic2025,Adaptive Semantic Gates for Reliable Multi-Agent LLMs,10.1109/ICCE67443.2026.11449653,,4,doi
+adaptiveThreat2025,Adaptive Threat Modeling with MITRE ATT\&CK: A Machine Learning Framework for Real-Time Adversarial Detection,10.1109/CSITSS67709.2025.11295603,,,
+adversarialMultilingual2025,Adversarial and Multilingual Threats in Retrieval-Augmented Generation: From Prompt Injection to Model Exploitation,10.1109/GACLM67198.2025.11231998,,,
+agentDrift2025,Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions,,2601.04170,226,arxiv_id
+agentPersonalized2025,Agent AI for Personalized Healthcare: A Multi-Agent Framework for Real-Time Disease Detection and Patient Support,10.1109/ICTBIG68706.2025.11323744,,,
+agentUser2025,Agent for User: Testing Multi - User Interactive Features in TikTok,10.1109/ICSE-SEIP66354.2025.00011,,114,doi
+agentbench2023,AgentBench: Evaluating LLMs as Agents,10.48550/arXiv.2308.03688,2308.03688,,
+agentboard2024,AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents,,2401.13178,,
+agentdojo2024,AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents,10.48550/arXiv.2406.13352,2406.13352,,
+agentfusionMultiagent2025,AgentFusion: A Multi-Agent Approach to Accurate Text Generation,10.1109/ICECER62944.2024.10920460,,139,doi
+agentguard2025,AgentGuard: Runtime Verification of AI Agents,10.48550/arXiv.2509.23864,2509.23864,36,title
+agentguardRuntime2025,AgentGuard: Runtime Verification of AI Agents,10.1109/ASEW67777.2025.00023,,36,doi
+agentharm2024,AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents,10.48550/arXiv.2410.09024,2410.09024,,
+agenticMission2025,Agentic AI for Mission Adaptation: A Distributed Cognition Framework for Air Force Operations,10.1109/InCIT66780.2025.11276050,,,
+agenticModeration2025,Agentic Moderation: Multi-Agent Design for Safer Vision-Language Models,10.1109/BigData66926.2025.11401450,,71,doi
+agenticPlanning2025,Agentic Planning for Power System Simulation Task Orchestrations Based on Multi-Agent Systems,10.1109/RCAE66389.2025.11355202,,84,doi
+agenticSecurity2025,"Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges",10.1109/ACCESS.2026.3675554,,9,doi
+agenticSelfevolving2025,AgenticEval: Toward Agentic and Self-Evolving Safety Evaluation of Large Language Models,,2509.26100,220,arxiv_id
+agenticSimheuristic2025,Agentic Simheuristic: Integrating Generative AI and Simheuristic for a Team Orienteering Problem,10.1109/WSC68292.2025.11339023,,,
+agenticTemporal2025,Agentic Temporal Graph of Reasoning with Multimodal Language Models: A Potential AI Aid to Healthcare,,2509.11944,,
+agentsafeUnified2025,AGENTSAFE: A Unified Framework for Ethical Assurance and Governance in Agentic AI,,2512.03180,228,arxiv_id
+agentverse2023,AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors,,2308.10848,,
+ahe2026,Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses,10.48550/arXiv.2604.25850,2604.25850,,
+alelyani2025,A Validated Framework for Responsible AI in Healthcare Autonomous Systems,10.1038/s41598-025-25266-z,,,
+alshiekh2018safe,Safe Reinforcement Learning via Shielding,10.1609/aaai.v32i1.11797,,,
+ammann2016,Introduction to Software Testing,,,,
+amodei2016concrete,Concrete Problems in AI Safety,10.48550/arXiv.1606.06565,1606.06565,,
+analysingRole2025,Analysing the Role of Multi-Agent AI Models for Autonomous Business Decision Systems,10.1109/CCWC67433.2026.11393746,,,
+applicationAutomotive2025,Application of an Automotive Assurance Case Approach to Autonomous Marine Vessel Security,10.1109/ICECCME55909.2022.9988376,,153,doi
+assessmentFramework2025,Beyond Task Completion: An Assessment Framework for Evaluating Agentic AI Systems,,2512.12791,215,title
+assuranceAimlbased2025,Assurance of AI/ML-Based Aerospace Systems Using Overarching Properties,10.1109/DASC62030.2024.10749102,,,
+assuranceCase2025,An Assurance Case for the DoD Ethical Principles of Artificial Intelligence,10.1109/RAMS51473.2023.10088273,,,
+assuranceCase20252,An Assurance Case Driven Development Paradigm for Autonomous Vehicles: An F1TENTH Racing Car Case Study,10.1109/SERA57763.2023.10197746,,145,doi
+assurancedrivenDesign2025,Assurance-driven Design of Machine Learning-based Functionality in an Aviation Systems Context,10.1109/DASC58513.2023.10311282,,96,doi
+auraAgent2025,"AURA: Agent for Understanding, Reasoning, and Automated Tool Use in Voice-Driven Tasks",10.1109/ASRU65441.2025.11434725,,19,doi
+autoflowgenMultiagent2025,AutoFlowgen: A Multi-Agent Framework for Automated Generation of Workflows from Natural Language,10.1109/CAIBDA65784.2025.11182955,,118,doi
+autogen2025,AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation,10.48550/arXiv.2308.08155,,,
+autogenesis2026,Autogenesis: A Self-Evolving Agent Protocol,10.48550/arXiv.2604.15034,2604.15034,,
+automatedInterpretation2025,Automated Interpretation of Fleet Incidents to Enable System Level Runtime Assurance,10.1109/ISSREW63542.2024.00053,,8,doi
+automatedModelbased2025,Automated Model-Based Assurance Case Management Using Constrained Natural Language,10.1109/TCAD.2023.3303220,,34,doi
+autonomousAgentic2025,Autonomous Agentic AI for Clinical Workflow Orchestration: Self-Managing Healthcare Operations,10.1109/ICICNIS66685.2025.11315712,,,
+autonomousAgents2025,"Autonomous AI Agents in Scientific Discovery -- How Agentic AI Accelerates Research in Drug Design, Materials Science, or Climate Modeling",10.1109/ICAIQSA67794.2025.11440385,,,
+autonomousAgents20252,"Autonomous Agents in a Zero-Trust World: Architecting Secure, Auditable AI Workflows",10.1109/ITT69610.2025.11352936,,76,doi
+autoonbenchBenchmark2025,AutoONBench: a benchmark for large language model agents in autonomous optical networks,10.1364/JOCN.589201,,175,doi
+behaviorTree2025,Behavior Tree Based Decentralized Multi-agent Coordination for Balanced Servicing of Time Varying Task Queues,10.1109/IROS58592.2024.10801900,,,
+beizer1990,Software Testing Techniques,,,,
+benchcontam2025,Benchmarking Large Language Models Under Data Contamination: A Survey from Static to Dynamic Evaluation,10.18653/v1/2025.emnlp-main.511,,,
+benchmarkingOffensive2025,Benchmarking Offensive AI Agents Through the Autonomous Attack Chain,10.1109/RAAI67517.2025.11423369,,35,doi
+bib:assurancecase,Validation of Assurance Case for Dynamic Systems,10.1109/DASC55683.2022.9925731,,33,doi
+bib:auctionmas,Reactive Multi-agent Coordination using Auction-based Task Allocation and Behavior Trees,,2304.01976,,
+bib:beyondchatbox,Beyond the Chatbox: An Exploratory Case Study of Autonomous Computer-Use Agents,10.1109/CogMI67134.2025.00062,,11,doi
+bib:constitutional,Toward Constitutional Autonomy in AI Systems: A Theoretical Framework for Aligned Agentic Intelligence,10.1109/ACCESS.2026.3654907,,,
+bib:cybersecurity,The Evolution of Agentic AI in Cybersecurity: From Single LLM Reasoners to Multi-Agent Systems and Autonomous Pipelines,10.1109/ICAIC67076.2026.11395809,,,
+bib:seventax,Agentic AI in Healthcare and Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-Based Agents,10.1109/ACCESS.2026.3651218,,,
+bib:updatingml,Updating Machine Learning Models in Real-World Applications: Finding Best Deployment Settings,10.1109/ACDSA65407.2025.11166305,,,
+boundaryawareConcept2025,Boundary-Aware Concept Drift Detection for Automated Industrial Systems with Limited Supervision,10.1109/IFEEA66847.2025.11388971,,,
+braiek2020testing,On Testing Machine Learning Programs,10.1016/j.jss.2020.110542,,,
+breakingObservability2025,Breaking the Observability Tax: Dynamic Resolution Anomaly Detection via Topology-Aware Active LLM Agents,10.1109/ACCESS.2026.3675074,,104,doi
+breck2017ml,The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction,10.1109/BigData.2017.8258038,,,
+brown2025iccps,Perception-Based Quantitative Runtime Verification for Learning-Enabled Cyber-Physical Systems,10.1145/3716550.3722031,,,
+caid2026,Effective Strategies for Asynchronous Software Engineering Agents,10.48550/arXiv.2603.21489,2603.21489,,
+camel2023,CAMEL: Communicative Agents for ``Mind'' Exploration of Large Language Model Society,,2303.17760,,
+canLlm2025,Can LLM Agents Solve Collaborative Tasks? A Study on Urgency-Aware Planning and Coordination,10.1109/ICAR65334.2025.11338680,,131,doi
+collaborativeMultiagent2025,Collaborative Multi-Agent Reinforcement Learning Approach for Elastic Cloud Resource Scaling,10.1109/ICAITA67588.2025.11137847,,,
+collaco2026,The Role of Agentic Artificial Intelligence in Healthcare: A Scoping Review,10.1038/s41746-026-02517-5,,,
+comparativeSurvey2025,A Comparative Survey of Trust-Building Methods in Multi-Agent AI Systems,10.1109/CogMI67134.2025.00063,,,
+confidentBut2025,Confident but Incorrect: Mitigating Hallucination and Overconfidence in Agentic AI Coders,10.1109/ICIIP68302.2025.11346318,,,
+connectionBetween2025,On the Connection between Concept Drift and Uncertainty in Industrial Artificial Intelligence,10.1109/CAI54212.2023.00081,,,
+contextualTrust2025,Contextual Trust Evaluation for Robust Coordination in Large Language Model Multi-Agent Systems,10.1109/EIECC67963.2025.11409558,,154,doi
+continuousDeployment2025,Continuous Deployment for Dependable Systems with Continuous Assurance Cases,10.1109/ISSREW.2019.00091,,,
+controlaAgentic2025,ControlA: Agentic Workflow Control Mechanisms for Reliable Science,10.1109/eScience65000.2025.00086,,73,doi
+costDynamic2025,The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective,10.1109/HPCA68181.2026.11408569,,149,doi
+costar2025,COSTAR: Cloud-Observed Safety and Trust-Aware Agentic Reasoning for Enterprise Workflows,10.1109/ICAIDES67265.2025.11404085,,10,doi
+crossagentMultimodal2025,Cross-Agent Multimodal Provenance-Aware Framework for Robust Prompt Injection Defense in Large Language and Vision-Language Models,10.1109/ICCA66035.2025.11430791,,24,doi
+dawnDesigning2025,DAWN: Designing Distributed Agents in a Worldwide Network,10.1109/ACCESS.2025.3588425,,,
+debate2025,AI Safety via Debate,10.48550/arXiv.1805.00899,1805.00899,,
+decentralizedGovernance2025,Decentralized Governance of Autonomous AI Agents,,2412.17114,,
+decisionAlignment2025,Decision Alignment Protocols: Harmonising AI Agents for Comprehensive Market Assessment,10.1109/ICECCE67514.2025.11257956,,,
+derivingSafety2025,Deriving Safety Requirements for Machine Learning Based Systems Using an Attribute-Driven Goal Structuring Notation Method,10.1109/ICSRS68021.2025.11422049,,,
+draelos2026,Large Language Models Provide Unsafe Answers to Patient-Posed Medical Questions,10.1038/s41746-026-02428-5,,,
+driveaiagentMultiagent2025,DriveAIAgent: A Multi-Agent System for Industrial Drive Commissioning and Troubleshooting,10.1109/ETFA65518.2025.11205685,,38,doi
+efficientCooperative2025,Efficient Cooperative Mechanism for Distributed Multi-Agent Traffic Signal Control,10.1109/TMC.2025.3587257,,,
+empoweringConvenient2025,Empowering Convenient Home-based Progressive Autism Diagnosis and Management System through Agentic AI-powered Assistive Technology,10.1109/HealthCom60686.2025.11343645,,,
+engineeringMultiagent2025,Towards Engineering Multi-Agent LLMs: A Protocol-Driven Approach,10.1109/APSEC66846.2025.00100,,83,doi
+eu-mdr,Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on Medical Devices,,,,
+evaluatingAgentbased2025,Evaluating Agent-Based Program Repair at Google,10.1109/ICSE-SEIP66354.2025.00038,,15,doi
+evaluatingSoftware2025,"Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios",10.1109/SANER64311.2025.00068,,109,doi
+expertmonitoring2024,Expert Monitoring: Human-Centered Concept Drift Detection in Machine Learning Operations,10.1145/3639476.3639771,,,
+explainableVerifiable2025,"Explainable, Verifiable Agentic AI with Provably Reduced Failure Modes Using Quantum Verification Subroutines",10.1109/ISED67359.2025.11405134,,37,doi
+exploringAutonomous2025,Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks,10.1109/ASE63991.2025.00330,,16,doi
+fda-action-plan,Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device Action Plan,,,,
+fda-aiedsflm2025,Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations,,,,
+fda-gmlp,Good Machine Learning Practice for Medical Device Development: Guiding Principles,,,,
+fda-pccp2025,Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions,,,,
+formalizingDistributed2025,Formalizing Distributed Situation Awareness in Multi-Agent Networks,10.1109/THMS.2022.3142109,,,
+frameworkbasedMultiagent2025,A Framework-Based Multi-Agent Coordination for Enhanced Microgrid Energy Management at the Secondary Control Layer,10.1109/TASC.2024.3468074,,,
+greshake2023,Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection,10.48550/arXiv.2302.12173,2302.12173,,
+gsafeguard2025,G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-Based Multi-Agent Systems,10.48550/arXiv.2502.11127,2502.11127,,
+harnessingMultiagent2025,Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: A Framework for Senior Design Projects,10.1109/EDUCON62633.2025.11016653,,,
+hawkins2021amlas,Guidance on the Assurance of Machine Learning in Autonomous Systems (AMLAS),10.48550/arXiv.2102.01564,,,
+healthgym2025,The Health Gym: Synthetic Health-Related Datasets for the Development of Reinforcement Learning Algorithms,10.1038/s41597-022-01784-7,,,
+holisticAssurance2025,Holistic Assurance Case for System-of-Systems,10.1109/DASC55683.2022.9925789,,43,doi
+hybridMultiagent2025,Hybrid Multi-Agent Reinforcement Learning and Blockchain Framework for Real-Time Transaction Integrity in Cloud-Driven Financial Systems,10.1109/GCWCN66157.2025.11448456,,,
+iec62304,IEC 62304: Medical Device Software--Software Life Cycle Processes,,,,
+ieeeguide2025,IEEE Draft Guide for Verification of Autonomous Systems,,,,
+improvingReliability2025,Improving the Reliability of Failure Prediction Models through Concept Drift Monitoring,10.1109/DeepTest66595.2025.00006,,,
+interlockingSafety2025,Interlocking Safety Cases for Unmanned Autonomous Systems in Shared Airspaces,10.1109/TSE.2019.2907595,,60,doi
+iso21448,ISO 21448: Road Vehicles--Safety of the Intended Functionality (SOTIF),,,,
+itbench2025,ITBench: Evaluating AI Agents Across Diverse Real-World IT Automation Tasks,10.48550/arXiv.2502.05352,2502.05352,,
+kadavath2022knowing,Language Models (Mostly) Know What They Know,10.48550/arXiv.2207.05221,2207.05221,,
+kddeval2025,Evaluation and Benchmarking of LLM Agents: A Survey,10.1145/3711896.3736570,,,
+knowledgeAction2025,From Knowledge to Action: An Agentic AI Framework for Diabetes Management,10.1109/UEMCON67449.2025.11267605,,,
+krakovna2020gaming,Avoiding Side Effects in Complex Environments,10.48550/arXiv.2006.06547,,,
+landscapeSafety2025,Landscape of AI Safety Concerns: A Methodology to Support Safety Assurance for AI-Based Autonomous Systems,10.1109/ICSRS63046.2024.10927556,,,
+lee2004trust,Trust in Automation: Designing for Appropriate Reliance,,,,
+liabilityProblem2025,The Liability Problem for Autonomous Artificial Agents,,,,
+liang2022helm,Holistic Evaluation of Language Models,10.48550/arXiv.2211.09110,2211.09110,,
+limitsVerification2016,Limits to Verification and Validation of Agentic Behavior,,1604.06963,,
+lin2025iccps,Safety Monitoring for Learning-Enabled Cyber-Physical Systems in Out-of-Distribution Scenarios,10.1145/3716550.3722022,,,
+lipton2018mythos,Troubling Trends in Machine Learning Scholarship,10.48550/arXiv.1807.03341,1807.03341,,
+llmjudge2025,Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena,10.48550/arXiv.2306.05685,2306.05685,,
+luo2025,"Large Language Model Agent: A Survey on Methodology, Applications and Challenges",10.48550/arXiv.2503.21460,2503.21460,,
+maintainingMonitoring2025,Maintaining and Monitoring AIOps Models Against Concept Drift,10.1109/CAIN58948.2023.00024,,,
+mast2025,Why Do Multi-Agent LLM Systems Fail?,10.48550/arXiv.2503.13657,2503.13657,,
+mcpsecureRuntime2025,MCP-Secure: A Runtime Access Control Layer for Privilege-Aware LLM Agent Tooling,10.1109/OJCS.2026.3664314,,58,doi
+mdcg2025-10,MDCG 2025-10: Post-Market Surveillance Considerations for AI-Enabled Medical Device Software,,,,
+mdcg2025-6,MDCG 2025-6: Interplay Between the Medical Devices Regulation and the AI Act for Medical Device Software,,,,
+meanfieldDeep2025,Mean-Field Deep Reinforcement Learning for Multi-Agent Path Finding,10.1109/LRA.2026.3669783,,,
+memoryt1Reinforcement2025,Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents,,2512.20092,,
+mlops2023,"Machine Learning Operations (MLOps): Overview, Definition, and Architecture",10.1109/ACCESS.2023.3262138,,,
+modelRisk2025,Model Risk Management in Finance: The Role of Agentic Systems in Risk Mitigation,10.1109/ICA67499.2025.00010,,,
+multiagentCoordination2025,Toward Multi-Agent Coordination in IoT via Prompt Pool-based Continual Reinforcement Learning,10.1109/ISPA63168.2024.00296,,,
+multiagentLlm2025,A Multi-Agent LLM Environment for Software Design and Refactoring: A Conceptual Framework,10.1109/SoutheastCon56624.2025.10971563,,,
+multiagentbench2025,MultiAgentBench: Evaluating the Collaboration and Competition of LLM Agents,10.18653/v1/2025.acl-long.421,,438,doi
+multilayeredSecurity2025,Multi-Layered Security Framework for Financial AI Solutions - PISA,10.1109/ICAIC67076.2026.11395741,,,
+multilevelProtocol2025,Multi-Level Protocol Consistency Verification Using Large Language Model Agents,10.1109/ISCIPT67144.2025.11265514,,130,doi
+multimodalAgentic2025,Multimodal Agentic System for Highway Safety Monitoring,10.1109/ComComAp68359.2025.11353134,,,
+multimodalFramework2025,Toward Trustworthy Agentic AI: A Multimodal Framework for Preventing Prompt Injection Attacks,,2512.23557,,
+myers2004,The Art of Software Testing,,,,
+nemesisAdversarial2025,Nemesis: An Adversarial Multi-Agent AI Framework for Proactive Vulnerability Discovery and Patch Synthesis,10.1109/ICEI65890.2026.11448038,,65,doi
+observabilityFramework2025,An Observability Framework for Detecting Bias and Drift in AI-Based Student Early Alert Systems,10.1109/ICALTER69698.2025.11355034,,,
+overviewGenai2025,An Overview of GenAI 2.0 Partnering With Digital Twin to Enhance Decision Making,10.1109/MCOMSTD.2025.3644899,,,
+parallelNursing2025,Parallel Nursing: Enhancing Postoperative Nursing With LLM Agent Systems,10.1109/TCSS.2025.3605582,,,
+parasuraman1997humans,"Humans and Automation: Use, Misuse, Disuse, Abuse",10.1518/001872097778543886,,,
+patternsReference2025,Towards Patterns for a Reference Assurance Case for Autonomous Inspection Robots,10.1109/ICSR66718.2025.00016,,28,doi
+planexecutegeneratejudgeSelf2025,Plan-Execute-Generate-Judge: A Self Verifying Multi Agent LLM Framework for Complex NoSQL Querying,10.1109/BigData66926.2025.11400819,,2,doi
+policyPipeline2025,From Policy to Pipeline: A Governance Framework for AI Development and Operations Pipelines,10.1109/ACCESS.2025.3647479,,,
+prismaiDualstage2025,PRISM-AI: A Dual-Stage Neuro-Symbolic Agentic Framework for Privacy Risk Mitigation in LLMs,10.1109/AICCSA66935.2025.11315208,,69,doi
+quantitativeSecurity2025,Quantitative Security Assurance Case for In-vehicle Embedded Systems,10.1109/DASC-PICom-CBDCom-CyberSciTech52372.2021.00022,,,
+quionero2009dataset,Dataset Shift in Machine Learning,,,,
+reactiveMultiagent2025,Reactive Multi-agent Coordination using Auction-based Task Allocation and Behavior Trees,10.1109/CCTA54093.2023.10252961,,,
+refutebenchAgentic2025,RefuteBench 2.0 -- Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction,10.1109/TASLPRO.2025.3626926,,18,doi
+reliabilitybydesignAgentic2025,Reliability-by-Design for Agentic GenAI: Turning the AI Risk Atlas Into an EU AI Act-Ready Assurance Case,10.1109/MRL.2026.3660197,,3,doi
+resonateRuntime2025,ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems,10.1109/SEAMS51251.2021.00025,,59,doi
+retrievalAugmented2025,Retrieval Augmented Generation (RAG) for Fintech: Agentic Design and Evaluation,10.1109/FLLM67465.2025.11391155,,119,doi
+riccio2020testing,Testing Machine Learning Based Systems: A Systematic Mapping,10.1007/s10664-020-09881-0,,,
+rtbas2025,RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage,10.48550/arXiv.2502.08966,2502.08966,,
+safetyAssurance2025,On safety assurance case for deep learning based image classification in highly automated driving,10.23919/DATE51398.2021.9473924,,,
+sambasivan2021cascades,"Everyone Wants to Do the Model Work, Not the Data Work: Data Cascades in High-Stakes AI",10.1145/3411764.3445518,,,
+scienceScaling2025,Towards a Science of Scaling Agent Systems,,2512.08296,236,title
+sculley2015hidden,Hidden Technical Debt in Machine Learning Systems,,,,
+securityFramework2025,Security Framework for Agentic Home AI in Preventive Healthcare: Cyber Threats Worth Noting,10.1109/CARS67163.2025.11337832,,,
+sharma2026,"Reimagining Psychiatric Care with Agentic AI: Promise, Challenges, and a Roadmap Forward",10.1038/s41746-026-02453-4,,,
+shortPaper2025,[Short Paper] Forensic Analysis of Indirect Prompt Injection Attacks on LLM Agents,10.1109/TPS-ISA62245.2024.00053,,120,doi
+smartopsDemand2025,SmartOps: From Demand to Delivery,10.1109/ICAIQSA67794.2025.11440525,,,
+softwareAssurance2025,Software Assurance of Autonomous Spacecraft Control,10.1109/RAMS48030.2020.9153674,,182,doi
+strategicLearning2025,Strategic Learning Under Linguistic and Contextual Constraints: A Theoretical Framework for LLM-Based Multi-Agent Coordination,10.1109/ACCESS.2025.3628927,,,
+sustainablyMonitor2025,How to Sustainably Monitor ML-Enabled Systems? Accuracy and Energy Efficiency Tradeoffs in Concept Drift Detection,10.1109/ICT4S64576.2024.00026,,,
+swerebench2025,SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents,10.48550/arXiv.2505.20411,2505.20411,,
+synthea2026,SyntheaTM and synthetic patient generation for healthcare simulation and evaluation,,,,
+taaeTeamaware2025,TAAE: Team-Aware Attention Extraction for Generalized Agent Coordination in Multi-Agent Reinforcement Learning,10.1109/IJCNN64981.2025.11227327,,,
+taskspecificTrust2025,Task-Specific Trust Evaluation for Multi-Hop Collaborator Selection via GNN-Aided Distributed Agentic AI,10.1109/JSAC.2025.3642235,,,
+taubench2024,$\\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains,,2406.12045,,
+theagentcompany2025,TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks,,2412.14161,,
+thresholdtriggeredDeep2025,A Threshold-Triggered Deep Q-Network-Based Framework for Self-Healing in Autonomic Software-Defined IIoT-Edge Networks,10.1109/TNSM.2025.3647853,,62,doi
+traceabilityAccountability2025,Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines,10.1109/ASEW67777.2025.00064,,44,doi
+trustagent2025,A Survey on Trustworthy LLM Agents: Threats and Countermeasures,10.1145/3711896.3736561,,,
+uncertaintydrivenMonitoring2025,Uncertainty-Driven Monitoring for ML-Based Autonomic Systems,10.1109/ACSOS66086.2025.00021,,,
+unifiedEvaluation2025,"A Unified Evaluation Framework for Grounded LLM Architectures: Comparative Analysis of RAG, Self-RAG, and Agentic RAG",10.1109/AISP68263.2025.11396270,,23,doi
+unifiedFramework2025,TrinityGuard: A Unified Framework for Safeguarding Multi-Agent Systems,,2603.15408,232,arxiv_id
+veledar2019dt,Digital Twins for Dependability Improvement of Autonomous Driving,10.1007/978-3-030-28005-5_32,,,
+verifiableSemantics2025,Verifiable Semantics for Agent-to-Agent Communication,,2602.16424,230,title
+verificationModel2025,Verification Model for Agent Coordination of Distributed Information Systems,10.1109/IDAACS53288.2021.9660961,,198,doi
+verifyingMulti2025,Verifying Multi -Agent Coordination Correctness for BDI Agents,10.1109/COMPSAC61105.2024.00013,,308,doi
+vtsllmDomainadaptive2025,VTS-LLM: Domain-Adaptive LLM Agent for Enhancing Awareness in Vessel Traffic Services Through Natural Language,10.1109/ITSC60802.2025.11423850,,78,doi
+wang2024survey,A Survey on Large Language Model Based Autonomous Agents,10.1007/s11704-024-40231-1,,,
+webarena2024,WebArena: A Realistic Web Environment for Building Autonomous Agents,,2307.13854,,
+yehudai2025,Survey on Evaluation of LLM-Based Agents,10.48550/arXiv.2503.16416,2503.16416,,
+yourAnomaly2025,Is Your Anomaly Detector Ready for Change? Adapting AIOps Solutions to the Real World,10.1145/3644815.3644961,,,
+zha2023datacentric,Data-Centric Artificial Intelligence: A Survey,10.48550/arXiv.2303.10158,2303.10158,,
+zhang2020mltesting,"Machine Learning Testing: Survey, Landscapes and Horizons",10.1109/TSE.2019.2962027,,,
+zhao2026,"AI Agent in Healthcare: Applications, Evaluations, and Future Directions",10.1038/s44387-026-00076-4,,,
+zinkevich2016rules,Rules of Machine Learning: Best Practices for ML Engineering,,,,
+zou2025,LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey,10.48550/arXiv.2505.00753,2505.00753,,
+amershi2019se4ml,Software Engineering for Machine Learning: A Case Study,10.1109/ICSE-SEIP.2019.00042,,,
+bartocci2018specmonitoring,"Specification-Based Monitoring of Cyber-Physical Systems: A Survey on Theory, Tools and Applications",10.1007/978-3-319-75632-5_5,,,
+bloomfield2020assurance2,Assurance 2.0: A Manifesto,10.48550/arXiv.2004.10474,2004.10474,,
+cohen1960kappa,A Coefficient of Agreement for Nominal Scales,10.1177/001316446002000104,,,
+dennis2020verifiable,Verifiable Self-Aware Agent-Based Autonomous Systems,10.1109/JPROC.2020.2991262,,,
+gsn2021,"Goal Structuring Notation Community Standard, Version 3",,,,
+isoiec42001,ISO/IEC 42001:2023 Information technology --- Artificial intelligence --- Management system,,,,
+kitchenham2007guidelines,Guidelines for Performing Systematic Literature Reviews in Software Engineering,,,,
+leveson2011stpa,Engineering a Safer World: Systems Thinking Applied to Safety,10.7551/mitpress/8179.001.0001,,,
+nistairmf2023,Artificial Intelligence Risk Management Framework (AI RMF 1.0),10.6028/NIST.AI.100-1,,,
+page2021prisma,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,10.1136/bmj.n71,,,
+petersen2015mapping,Guidelines for conducting systematic mapping studies in software engineering: An update,10.1016/j.infsof.2015.03.007,,,
+rushby2008runtimecert,Runtime Certification,10.1007/978-3-540-89247-2_2,,,
+sha2001simplex,Using Simplicity to Control Complexity,10.1109/ms.2001.936213,,,
+haddaway2022prisma2020,"PRISMA2020: An R package and Shiny app for producing PRISMA 2020-compliant flow diagrams, with interactivity for optimised digital transparency and Open Synthesis",10.1002/cl2.1230,,,

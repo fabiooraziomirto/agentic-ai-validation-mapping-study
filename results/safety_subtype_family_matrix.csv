@@ -1,0 +1,8 @@
+row,functional_safety,adversarial_security,both,uncertain
+Benchmarks,13,21,4,0
+Runtime Monitors,12,13,7,0
+CPS Validation,5,0,1,0
+Assurance Cases,3,0,0,0
+MLOps/Drift,0,0,2,0
+Reg Guidance,0,0,0,0
+Total (papers per subtype),23,29,9,0

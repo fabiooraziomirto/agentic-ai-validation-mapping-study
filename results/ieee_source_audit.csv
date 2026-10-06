@@ -1,0 +1,263 @@
+study_id,title,primary_dimension,sources,provenance_status,ieee_only
+2,Plan-Execute-Generate-Judge: A Self Verifying Multi Agent LLM Framework for Complex NoSQL Querying,behavioral,ieee,single_source,yes
+3,Reliability-by-Design for Agentic GenAI: Turning the AI Risk Atlas Into an EU AI Act-Ready Assurance Case,regulatory,ieee,single_source,yes
+4,Adaptive Semantic Gates for Reliable Multi-Agent LLMs,safety,ieee,single_source,yes
+8,Automated Interpretation of Fleet Incidents to Enable System Level Runtime Assurance,safety,ieee,single_source,yes
+9,"Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges",safety,ieee;scopus,multi_source_kept,no
+10,COSTAR: Cloud-Observed Safety and Trust-Aware Agentic Reasoning for Enterprise Workflows,safety,ieee,single_source,yes
+11,Beyond the Chatbox: An Exploratory Case Study of Autonomous Computer-Use Agents,behavioral,ieee,single_source,yes
+15,Evaluating Agent-Based Program Repair at Google,behavioral,ieee;scopus,multi_source_kept,no
+16,Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks,behavioral,ieee,single_source,yes
+18,RefuteBench 2.0 – Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction,behavioral,arxiv;ieee,multi_source_kept,no
+19,"AURA: Agent for Understanding, Reasoning, and Automated Tool Use in Voice-Driven Tasks",behavioral,ieee,single_source,yes
+23,"A Unified Evaluation Framework for Grounded LLM Architectures: Comparative Analysis of RAG, Self-RAG, and Agentic RAG",behavioral,ieee,single_source,yes
+24,Cross-Agent Multimodal Provenance-Aware Framework for Robust Prompt Injection Defense in Large Language and Vision-Language Models,safety,ieee,single_source,yes
+28,Towards Patterns for a Reference Assurance Case for Autonomous Inspection Robots,regulatory,ieee,single_source,yes
+32,A Distributed Multi-Agent Framework for Real-Time Privacy Monitoring and Compliance in Enterprise AI Systems,safety,,unmatched_kept,no
+33,Validation of Assurance Case for Dynamic Systems,temporal,ieee,single_source,yes
+34,Automated Model-Based Assurance Case Management Using Constrained Natural Language,regulatory,ieee,single_source,yes
+35,Benchmarking Offensive AI Agents Through the Autonomous Attack Chain,behavioral,ieee,single_source,yes
+36,AgentGuard: Runtime Verification of AI Agents,safety,ieee,single_source,yes
+37,"Explainable, Verifiable Agentic AI with Provably Reduced Failure Modes Using Quantum Verification Subroutines",safety,ieee,single_source,yes
+38,DriveAIAgent: A Multi-Agent System for Industrial Drive Commissioning and Troubleshooting,behavioral,ieee,single_source,yes
+43,Holistic Assurance Case for System-of-Systems,regulatory,ieee,single_source,yes
+44,Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines,multiagent,ieee,single_source,yes
+46,"Taming Uncertainty via Automation: Observing, Analyzing, and Optimizing Agentic AI Systems",behavioral,ieee;scopus,multi_source_kept,no
+57,EUROCOMPLY: Enabling Zero-Touch AI Compliance Auditing via LLM-Based Agentic AI,regulatory,ieee,single_source,yes
+58,MCP-Secure: A Runtime Access Control Layer for Privilege-Aware LLM Agent Tooling,safety,ieee,single_source,yes
+59,ReSonAte: A Runtime Risk Assessment Framework for Autonomous Systems,safety,ieee,single_source,yes
+60,Interlocking Safety Cases for Unmanned Autonomous Systems in Shared Airspaces,regulatory,ieee,single_source,yes
+62,A Threshold-Triggered Deep Q-Network-Based Framework for Self-Healing in Autonomic Software-Defined IIoT-Edge Networks,behavioral,,unmatched_kept,no
+64,Automating Organizational Cyber Security Policy Compliance Against Industry Standards Using Agentic AI,regulatory,ieee,single_source,yes
+65,Nemesis: An Adversarial Multi-Agent AI Framework for Proactive Vulnerability Discovery and Patch Synthesis,multiagent,ieee,single_source,yes
+66,Automating Prompt Leakage Attacks on Large Language Models Using Agentic Approach,safety,ieee,single_source,yes
+69,PRISM-AI: A Dual-Stage Neuro-Symbolic Agentic Framework for Privacy Risk Mitigation in LLMs,safety,ieee,single_source,yes
+71,Agentic Moderation: Multi-Agent Design for Safer Vision-Language Models,safety,ieee,single_source,yes
+73,ControlA: Agentic Workflow Control Mechanisms for Reliable Science,safety,ieee,single_source,yes
+76,"Autonomous Agents in a Zero-Trust World: Architecting Secure, Auditable AI Workflows",safety,ieee,single_source,yes
+78,VTS-LLM: Domain-Adaptive LLM Agent for Enhancing Awareness in Vessel Traffic Services Through Natural Language,behavioral,ieee,single_source,yes
+80,A Multi-Agent Architecture for Governance and Security of LLM-Based Knowledge Access,safety,ieee,single_source,yes
+83,Towards Engineering Multi-Agent LLMs: A Protocol-Driven Approach,multiagent,ieee,single_source,yes
+84,Agentic Planning for Power System Simulation Task Orchestrations Based on Multi-Agent Systems,behavioral,ieee,single_source,yes
+85,An Accountability-Based Architectural Tactic for Agent Cooperation in LLM-Based Multi-Agent Systems,regulatory,ieee,single_source,yes
+91,ASPIRE: A Multi-Agent Framework for Execution-Free Code Analysis and Repair,behavioral,ieee,single_source,yes
+96,Assurance-driven Design of Machine Learning-based Functionality in an Aviation Systems Context,regulatory,ieee,single_source,yes
+97,Meta-agentic Framework for Software bug detection using Large Language Models,behavioral,ieee,single_source,yes
+101,PromptArmor: Simple yet Effective Prompt Injection Defenses,safety,arxiv,single_source,no
+102,Guardrailing LLM and Agentic Decisions for 6G AI-RAN,safety,ieee,single_source,yes
+104,Breaking the Observability Tax: Dynamic Resolution Anomaly Detection via Topology-Aware Active LLM Agents,behavioral,ieee,single_source,yes
+108,Extending the TMMi Framework for Secure Testing of AI Agents,regulatory,ieee,single_source,yes
+109,"Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios",behavioral,ieee,single_source,yes
+112,ASIC-Agent: An Autonomous Multi-Agent System for ASIC Design with Benchmark Evaluation,behavioral,ieee;scopus,multi_source_kept,no
+114,Agent for User: Testing Multi - User Interactive Features in TikTok,behavioral,,unmatched_kept,no
+118,AutoFlowgen: A Multi-Agent Framework for Automated Generation of Workflows from Natural Language,behavioral,ieee,single_source,yes
+119,Retrieval Augmented Generation (RAG) for Fintech: Agentic Design and Evaluation,behavioral,ieee,single_source,yes
+120,[Short Paper] Forensic Analysis of Indirect Prompt Injection Attacks on LLM Agents,safety,ieee,single_source,yes
+124,BladeRunner-AD: Adversarial Co-evolution of Robust and Interpretable Driving Policies via LLM Agent Games,safety,ieee,single_source,yes
+126,ManeuverGPT Agentic Control for Safe Autonomous Stunt Maneuvers,behavioral,ieee,single_source,yes
+130,Multi-Level Protocol Consistency Verification Using Large Language Model Agents,behavioral,ieee,single_source,yes
+131,Can LLM Agents Solve Collaborative Tasks? A Study on Urgency-Aware Planning and Coordination,multiagent,arxiv;ieee,multi_source_kept,no
+134,Chase: LLM Agents for Dissecting Malicious PyPI Packages,behavioral,ieee,single_source,yes
+139,AgentFusion: A Multi-Agent Approach to Accurate Text Generation,behavioral,ieee,single_source,yes
+144,Safety-Critical Adaptation in Self-Adaptive Systems,temporal,ieee,single_source,yes
+145,An Assurance Case Driven Development Paradigm for Autonomous Vehicles: An F1TENTH Racing Car Case Study,regulatory,ieee,single_source,yes
+149,The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective,behavioral,ieee,single_source,yes
+153,Application of an Automotive Assurance Case Approach to Autonomous Marine Vessel Security,regulatory,ieee,single_source,yes
+154,Contextual Trust Evaluation for Robust Coordination in Large Language Model Multi-Agent Systems,multiagent,ieee,single_source,yes
+163,"Advancing LLM Agents for Code Generation: Observability, Orchestration, Reliable Performance",behavioral,ieee,single_source,yes
+165,Auto Computer – Code generation with VLMs to control a Windows GUI,behavioral,,unmatched_kept,no
+166,Cognitive SOC: Evidence-Backed Narrative Generation for Security Operations with Multi-Agent LLM Architecture,behavioral,ieee,single_source,yes
+175,AutoONBench: a benchmark for large language model agents in autonomous optical networks,behavioral,ieee,single_source,yes
+182,Software Assurance of Autonomous Spacecraft Control,regulatory,ieee,single_source,yes
+183,Performance Analysis of Fault-Tolerant Multiagent Coordination Mechanisms,multiagent,ieee,single_source,yes
+190,Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems,multiagent,ieee,single_source,yes
+197,Goal-Driven Adversarial Search for Distributed Self-Adaptive Systems,multiagent,,unmatched_kept,no
+198,Verification Model for Agent Coordination of Distributed Information Systems,multiagent,ieee,single_source,yes
+199,COSMIC: Leader-Driven Context-Oriented Collaboration Between Agents,multiagent,ieee,single_source,yes
+215,Beyond Task Completion: An Assessment Framework for Evaluating Agentic AI Systems,behavioral,arxiv,single_source,no
+218,Securing Agentic AI with the NIST Cybersecurity Framework 2.0,regulatory,ieee,single_source,yes
+219,Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents,safety,ieee,single_source,yes
+220,Toward Agentic and Self-Evolving Safety Evaluation of LLMs,safety,,unmatched_kept,no
+222,Guidance on the Safety Assurance of Autonomous Systems,regulatory,,unmatched_kept,no
+226,Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems,temporal,,unmatched_kept,no
+228,AGENTSAFE: A Unified Framework for Ethical Assurance in Agentic AI,regulatory,,unmatched_kept,no
+230,Verifiable Semantics for Agent-to-Agent Communication,multiagent,,unmatched_kept,no
+232,A Unified Framework for Safeguarding Multi-Agent Systems,safety,,unmatched_kept,no
+233,Towards Unifying Quantitative Security Benchmarking for Multi Agent Systems,multiagent,,unmatched_kept,no
+235,Safety and Risk Pathways in Cooperative Generative Multi-Agent Systems,multiagent,,unmatched_kept,no
+236,Towards a Science of Scaling Agent Systems,multiagent,,unmatched_kept,no
+237,Large Language Models are Autonomous Cyber Defenders,behavioral,arxiv,single_source,no
+243,StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?,behavioral,arxiv,single_source,no
+244,Play to Grade: Testing Coding Games as Classifying Markov Decision Process,behavioral,scopus,single_source,no
+251,Dynamic Reconfiguration of Safety-Critical Production Systems,temporal,ieee,single_source,yes
+276,"Enterprise Memory Architecture for Agentic AI (EMA2): A Policy-Aware, Provenance-First, Multi-Tier Memory Stack for Long-Horizon Agents",regulatory,ieee,single_source,yes
+282,NetMoniAI: An Agentic AI Framework for Network Security & Monitoring,behavioral,ieee,single_source,yes
+285,A Knowledge-System-Driven Evolving AI Agent Architecture and its Application in Oil & Gas Exploration and Production,behavioral,ieee,single_source,yes
+286,Automated Bug Discovery in Cloud Infrastructure-as-Code Updates with LLM Agents,behavioral,ieee,single_source,yes
+292,Intent-Driven Autonomous Reconfiguration for Telecom OSS: A Generative-AI-Empowered Hierarchical Multi-Agent Architecture,multiagent,ieee,single_source,yes
+294,Self-Healing AI Systems Using Multi-Agent Learning,behavioral,ieee,single_source,yes
+299,Event-Driven Agentic SOC (ED-ASOC): Supervisor-Based LLM Framework for Dynamic Incident Response and SOAR Orchestration,behavioral,ieee,single_source,yes
+300,Leveraging LLM Agents and Digital Twins for Fault Handling in Process Plants,behavioral,arxiv;ieee,multi_source_kept,no
+302,LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology,behavioral,acm;arxiv;ieee,multi_source_kept,no
+303,Specification and Evaluation of Multi-Agent LLM Systems - Prototype and Cybersecurity Applications,behavioral,ieee,single_source,yes
+308,Verifying Multi -Agent Coordination Correctness for BDI Agents,multiagent,ieee,single_source,yes
+310,A Blockchain-Monitored Agentic AI Architecture for Trusted Perception–Reasoning–Action Pipelines,safety,ieee,single_source,yes
+312,Pandora: A Large Language Model-Driven Self-Evolving Agent for On-Campus Task Execution,behavioral,ieee,single_source,yes
+316,"RAFTAR-FM: Retrieval-Augmented, Feedback-Tuned Agentic Resolution for Facilities Maintenance",behavioral,ieee,single_source,yes
+321,MobiLLM: An Agentic AI Framework for Closed-Loop Threat Mitigation in 6G Open RANs,safety,ieee,single_source,yes
+322,ReleaseScribe: an AI Agent for Automating Compliance Checklists in Product Release Processes,regulatory,ieee,single_source,yes
+323,RFCAudit: AI Agent for Auditing Protocol Implementations Against RFC Specifications,behavioral,ieee,single_source,yes
+324,"Code Prism: A Multi-Agent, Multi-LLM, Semantic Indexing Artifact for Regulatory Code Audits — A Design Science Research Study",regulatory,ieee,single_source,yes
+325,Sell Me This Stock: Unsafe Recommendation Drift in LLM Agents,behavioral,arxiv,single_source,no
+326,Capable but Unreliable: Canonical Path Deviation as a Causal Mechanism of Agent Failure in Long-Horizon Tasks,behavioral,arxiv,single_source,no
+327,Adaptive Monitoring and Real-World Evaluation of Agentic AI Systems,temporal,arxiv,single_source,no
+332,Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents,behavioral,arxiv,single_source,no
+334,Measuring temporal effects of agent knowledge by date-controlled tool use,temporal,arxiv,single_source,no
+336,Towards Systematic Maintenance of Assurance for Evolving Self-Adaptive Systems,temporal,ieee,single_source,yes
+337,Leveraging Artifact Trees to Evolve and Reuse Safety Cases,temporal,ieee,single_source,yes
+343,From Task Solving to Robust Real-World Adaptation in LLM Agents,behavioral,arxiv,single_source,no
+344,UpBench: A Dynamically Evolving Real-World Labor-Market Agentic Benchmark Framework Built for Human-Centric AI,behavioral,arxiv,single_source,no
+347,Large Language Model Agents Are Not Always Faithful Self-Evolvers,behavioral,arxiv,single_source,no
+348,SEVerA: Verified Synthesis of Self-Evolving Agents,safety,arxiv,single_source,no
+350,"Audited Skill-Graph Self-Improvement for Agentic LLMs via Verifiable Rewards, Experience Synthesis, and Continual Memory",regulatory,semanticscholar,single_source,no
+352,Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory,behavioral,arxiv,single_source,no
+353,Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions,behavioral,arxiv,single_source,no
+354,Evaluating Memory Structure in LLM Agents,behavioral,arxiv,single_source,no
+356,Memory Poisoning Attack and Defense on Memory Based LLM - Agents,safety,arxiv,single_source,no
+357,Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections,safety,arxiv,single_source,no
+358,MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval,safety,arxiv,single_source,no
+359,A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory,safety,arxiv,single_source,no
+369,AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks,safety,arxiv,single_source,no
+370,Enforcing Temporal Constraints for LLM Agents,safety,arxiv,single_source,no
+374,Search-Time Data Contamination,temporal,arxiv,single_source,no
+375,Dynamic Assurance Cases: A Pathway to Trusted Autonomy,temporal,ieee,single_source,yes
+376,MAPE-SAC: A Framework to Dynamically Manage Security Assurance Cases,temporal,ieee,single_source,yes
+387,"Continuous Safety & Security Evidence Generation, Curation and Assurance Case Construction Using the Evidential Tool Bus",regulatory,ieee,single_source,yes
+389,Your LLM Agents are Temporally Blind: The Misalignment Between Tool Use Decisions and Human Time Perception,temporal,arxiv,single_source,no
+390,Assessing Adaptations based on Change Impacts,temporal,ieee,single_source,yes
+395,A Proposed Safety Case Framework for Automated Vehicle Safety Evaluation,regulatory,ieee,single_source,yes
+396,Agent Benchmarks Fail Public Sector Requirements,regulatory,arxiv,single_source,no
+397,Evaluating Reinforcement Learning Safety and Trustworthiness in Cyber-Physical Systems,regulatory,ieee,single_source,yes
+398,Design of the Safety Case of the Reinforcement Learning-Enabled Component of a Quanser Autonomous Vehicle,regulatory,ieee,single_source,yes
+399,Multi-Agent Orchestration Protocol for Generative AI Systems,regulatory,ieee,single_source,yes
+401,PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows,regulatory,ieee,single_source,yes
+403,A sketch of an AI control safety case,regulatory,arxiv,single_source,no
+409,Formal Model-Based Assurance Cases in Isabelle/SACM : An Autonomous Underwater Vehicle Case Study,regulatory,ieee,single_source,yes
+410,Safety Compliance and Confidence into AI Agents,regulatory,ieee,single_source,yes
+411,Verifiable Collaboration among Agentic Code Assistants using Blockchain for Software Engineering Workflows,regulatory,ieee,single_source,yes
+412,Removing the Big Red Button: Uncrewed Ground Vehicles in Complex Military Environments,safety,ieee,single_source,yes
+415,"A2A Routing Service with MCP Integration: Bridging Security, Auditability, and Governance in AI Agent Systems",regulatory,ieee,single_source,yes
+417,Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents,behavioral,arxiv,single_source,no
+420,VET Your Agent: Towards Host-Independent Autonomy via Verifiable Execution Traces,regulatory,arxiv,single_source,no
+422,Toward a Harmonized Approach – Requirement-Based Structuring of a Safety Assurance Argumentation for Automated Vehicles,regulatory,ieee,single_source,yes
+423,Arguing Operational Safety for Mixed Traffic in Underground Mining,regulatory,ieee,single_source,yes
+425,LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models,multiagent,arxiv,single_source,no
+426,Before Humans Join the Team: Diagnosing Coordination Failures in Healthcare Robot Team Simulation,multiagent,arxiv,single_source,no
+427,MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems,multiagent,arxiv,single_source,no
+428,Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents,multiagent,arxiv,single_source,no
+430,Multi-Agent Coordination Profiles through State Space Perturbations,multiagent,ieee,single_source,yes
+431,Evaluating Collective Behaviour of Hundreds of LLM Agents,multiagent,arxiv,single_source,no
+432,Diagnostics of cognitive failures in multi-agent expert systems using dynamic evaluation protocols and subsequent mutation of the processing context,behavioral,arxiv,single_source,no
+433,Who is Responsible? Explaining Safety Violations in Multi-Agent Cyber-Physical Systems,multiagent,ieee,single_source,yes
+434,Can LLM Agents Really Debate? A Controlled Study of Multi-Agent Debate in Logical Reasoning,multiagent,arxiv,single_source,no
+435,The Traitors: Deception and Trust in Multi-Agent Language Model Simulations,multiagent,arxiv,single_source,no
+436,Evaluating Cooperative Resilience in Multiagent Systems: A Comparison Between Humans and LLMs,multiagent,arxiv,single_source,no
+437,The Automated but Risky Game: Modeling and Benchmarking Agent-to-Agent Negotiations and Transactions in Consumer Markets,multiagent,arxiv,single_source,no
+438,MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents,multiagent,arxiv,single_source,no
+439,"SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning",multiagent,acm,single_source,no
+440,Quantifying Privacy Leakage in Multi-Agent LLMs: A Unified Theoretical and Empirical Analysis,multiagent,ieee,single_source,yes
+441,When AI Agents Collude Online: Financial Fraud Risks by Collaborative LLM Agents on Social Platforms,multiagent,arxiv,single_source,no
+442,MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation,multiagent,arxiv,single_source,no
+444,Evaluating LLM Agent Collusion in Double Auctions,multiagent,arxiv,single_source,no
+445,To trust or not to trust: Attention-based Trust Management for LLM Multi-Agent Systems,multiagent,arxiv,single_source,no
+447,Methodology for Quality Assurance Testing of LLM-based Multi-Agent Systems,behavioral,acm,single_source,no
+448,Your Co-Workers Matter: Evaluating Collaborative Capabilities of Language Models in Blocks World,multiagent,arxiv,single_source,no
+449,"This Is Your Doge, If It Please You: Exploring Deception and Robustness in Mixture of LLMs",multiagent,arxiv,single_source,no
+451,OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence,multiagent,arxiv,single_source,no
+452,Information-Theoretic Privacy Control for Sequential Multi-Agent LLM Systems,multiagent,arxiv,single_source,no
+453,MAGPIE: A benchmark for Multi-AGent contextual PrIvacy Evaluation,multiagent,arxiv,single_source,no
+455,MASLegalBench: Benchmarking Multi-Agent Systems in Deductive Legal Reasoning,multiagent,arxiv,single_source,no
+456,AsymPuzl: An Asymmetric Puzzle for multi-agent cooperation,multiagent,arxiv,single_source,no
+457,Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets,multiagent,arxiv,single_source,no
+459,Can AI Agents Agree?,multiagent,arxiv,single_source,no
+460,I Can't Believe It's Corrupt: Evaluating Corruption in Multi-Agent Governance Systems,multiagent,arxiv,single_source,no
+461,Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia,multiagent,arxiv,single_source,no
+463,Verification-Aware Planning for Multi-Agent Systems,multiagent,arxiv,single_source,no
+464,"Observability in Large-Scale Multi-Agent Ecosystems: Coordination, Emergence, and Failure Modes",multiagent,ieee,single_source,yes
+465,VirtualCrime: Evaluating Criminal Potential of Large Language Models via Sandbox Simulation,safety,arxiv,single_source,no
+466,When Refusals Fail: Unstable Safety Mechanisms in Long-Context LLM Agents,safety,arxiv,single_source,no
+468,Survival at Any Cost? LLMs and the Choice Between Self-Preservation and Human Harm,safety,arxiv,single_source,no
+470,AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents,safety,arxiv,single_source,no
+471,Agent-SafetyBench: Evaluating the Safety of LLM Agents,safety,arxiv,single_source,no
+472,Adaptive Attacks on Trusted Monitors Subvert AI Control Protocols,safety,arxiv,single_source,no
+473,Large Empirical Case Study: Go-Explore adapted for AI Red Team Testing,safety,arxiv,single_source,no
+474,Beyond Jailbreaking: Auditing Contextual Privacy in LLM Agents,safety,arxiv,single_source,no
+475,DREAM: Dynamic Red-teaming across Environments for AI Models,safety,arxiv;semanticscholar,multi_source_kept,no
+476,Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers,safety,arxiv,single_source,no
+477,Adaptive Attacks Break Defenses Against Indirect Prompt Injection Attacks on LLM Agents,safety,arxiv,single_source,no
+479,Who Tests the Testers? Systematic Enumeration and Coverage Audit of LLM Agent Tool Call Safety,safety,arxiv,single_source,no
+480,MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI Agents,safety,arxiv,single_source,no
+481,AgentSight: System-Level Observability for AI Agents Using eBPF,safety,acm;arxiv,multi_source_kept,no
+483,SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents,safety,arxiv,single_source,no
+484,InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents,safety,arxiv,single_source,no
+485,Guaranteed Safe Satellite Guidance and Navigation Using Reachability Based Switching Controllers,safety,ieee,single_source,yes
+487,ICON: Indirect Prompt Injection Defense for Agents based on Inference-Time Correction,safety,arxiv,single_source,no
+489,STAC: When Innocent Tools Form Dangerous Chains to Jailbreak LLM Agents,safety,arxiv;semanticscholar,multi_source_kept,no
+490,SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents,safety,arxiv,single_source,no
+491,SOTER: A Runtime Assurance Framework for Programming Safe Robotics Systems,safety,ieee,single_source,yes
+492,MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?,behavioral,arxiv,single_source,no
+493,Beyond Perfect APIs: A Comprehensive Evaluation of LLM Agents Under Real-World API Complexity,behavioral,arxiv,single_source,no
+494,ToolFuzz -- Automated Agent Tool Testing,behavioral,arxiv,single_source,no
+495,Evaluating Personalized Tool-Augmented LLMs from the Perspectives of Personalization and Proactivity,behavioral,arxiv,single_source,no
+496,SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds,behavioral,arxiv,single_source,no
+497,From Capabilities to Performance: Evaluating Key Functional Properties of LLM Architectures in Penetration Testing,behavioral,arxiv,single_source,no
+500,On the Soundness and Consistency of LLM Agents for Executing Test Cases Written in Natural Language,behavioral,arxiv;semanticscholar,multi_source_kept,no
+501,What Do LLM Agents Know About Their World? Task2Quiz: A Paradigm for Studying Environment Understanding,behavioral,arxiv,single_source,no
+502,CMDBench: A Benchmark for Coarse-to-fine Multimodal Data Discovery in Compound AI Systems,behavioral,arxiv,single_source,no
+503,ShopSimulator: Evaluating and Exploring RL-Driven LLM Agent for Shopping Assistants,behavioral,arxiv,single_source,no
+504,LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet?,behavioral,arxiv,single_source,no
+505,Between Promise and Pain: The Reality of Automating Failure Analysis in Microservices with LLMs,behavioral,acm,single_source,no
+506,Process-Centric Analysis of Agentic Software Systems,behavioral,arxiv,single_source,no
+507,Sari Sandbox: A Virtual Retail Store Environment for Embodied AI Agents,behavioral,ieee,single_source,yes
+508,"CubeBench: Diagnosing Interactive, Long-Horizon Spatial Reasoning Under Partial Observations",behavioral,arxiv,single_source,no
+509,Can LLM Agents Generate Real-World Evidence? Evaluating Observational Studies in Medical Databases,behavioral,arxiv,single_source,no
+510,SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks,behavioral,arxiv,single_source,no
+511,OfficeBench: Benchmarking Language Agents across Multiple Applications for Office Automation,behavioral,arxiv,single_source,no
+513,IDA-Bench: Evaluating LLMs on Interactive Guided Data Analysis,behavioral,arxiv,single_source,no
+515,GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents,behavioral,arxiv,single_source,no
+516,Exploring LLM-Based Agents for Root Cause Analysis,behavioral,acm,single_source,no
+517,AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?,behavioral,arxiv,single_source,no
+519,LiveTradeBench: Seeking Real-World Alpha with Large Language Models,behavioral,arxiv,single_source,no
+520,TextQuests: How Good are LLMs at Text-Based Video Games?,behavioral,arxiv;semanticscholar,multi_source_kept,no
+521,Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation,behavioral,arxiv,single_source,no
+525,Agent-Testing Agent: A Meta-Agent for Automated Testing and Evaluation of Conversational AI Agents,behavioral,arxiv,single_source,no
+526,Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games,behavioral,arxiv,single_source,no
+527,FedAgentBench: Towards Automating Real-world Federated Medical Image Analysis with Server-Client LLM Agents,behavioral,arxiv,single_source,no
+528,"Both Ends Count! Just How Good are LLM Agents at ""Text-to-Big SQL""?",behavioral,arxiv,single_source,no
+529,Assessing generalizability of Deep Reinforcement Learning algorithms for Automated Vulnerability Assessment and Penetration Testing,behavioral,scopus,single_source,no
+530,Evaluating Agentic Optimization on Large Codebases,behavioral,arxiv,single_source,no
+531,Automatic Generation of Scenarios for System-level Simulation-based Verification of Autonomous Driving Systems,behavioral,semanticscholar,single_source,no
+532,LLM Agents for Generating Microservice-based Applications: how complex is your specification?,behavioral,arxiv,single_source,no
+533,InfoDeepSeek: Benchmarking Agentic Information Seeking for Retrieval-Augmented Generation,behavioral,arxiv,single_source,no
+534,Plancraft: an evaluation dataset for planning with LLM agents,behavioral,arxiv,single_source,no
+536,Continuous Benchmark Generation for Evaluating Enterprise-scale LLM Agents,temporal,arxiv,single_source,no
+537,"AD-Bench: A Real-World, Trajectory-Aware Advertising Analytics Benchmark for LLM Agents",behavioral,arxiv,single_source,no
+538,UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios,behavioral,arxiv;semanticscholar,multi_source_kept,no
+539,AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets,behavioral,arxiv,single_source,no
+540,ZT-ICAS: A Zero-Trust Integrity-Constrained Framework for Agentic Vulnerability Scanning,safety,ieee,single_source,yes
+541,"Taxonomy, Evaluation and Exploitation of IPI-Centric LLM Agent Defense Frameworks",safety,arxiv,single_source,no
+543,Nuclear Deployed: Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents,safety,arxiv,single_source,no
+544,CRALA: A Chinese-centric Risk Simulation and Assessment Framework for LLM Agents,safety,ieee,single_source,yes
+545,Conformal Predictive Monitoring for Multi-Modal Scenarios,safety,arxiv,single_source,no
+547,ComOpT: Combination and Optimization for Testing Autonomous Driving Systems,behavioral,scopus,single_source,no
+548,Arbiter: Detecting Interference in LLM Agent System Prompts,behavioral,arxiv,single_source,no
+549,How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment,behavioral,arxiv,single_source,no
+550,CryptoBench: A Dynamic Benchmark for Expert-Level Evaluation of LLM Agents in Cryptocurrency,behavioral,arxiv,single_source,no
+551,Evaluating Cultural and Social Awareness of LLM Web Agents,safety,arxiv,single_source,no
+553,PredictionMarketBench: A SWE-bench-Style Framework for Backtesting Trading Agents on Prediction Markets,behavioral,arxiv,single_source,no
+554,Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents,behavioral,arxiv,single_source,no
+555,WirelessBench: A Tolerance-Aware LLM Agent Benchmark for Wireless Network Intelligence,behavioral,arxiv,single_source,no
+557,Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compression,behavioral,arxiv;scopus,multi_source_kept,no
+558,VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks,behavioral,arxiv,single_source,no
+559,ZeroDayBench: Evaluating LLM Agents on Unseen Zero-Day Vulnerabilities for Cyberdefense,behavioral,arxiv,single_source,no
+561,The Importance of Safety Invariants in Robustness Testing Autonomy Systems,safety,ieee,single_source,yes

@@ -1,0 +1,49 @@
+IEEE Xplore
+===========
+Search window: January 2019 – March 2026 (initial pass: Jan–Apr 2025; refresh pass: Jan 2026 – 25 Apr 2026; second refresh pass: Sep 2026, same query)
+Records retrieved (export count): 2,414
+
+
+Final query (IEEE Xplore advanced search syntax)
+-------------------------------------------------
+(("Document Title":agentic OR "Document Title":"AI agent" OR "Document Title":"AI agents"
+   OR "Document Title":"LLM agent" OR "Document Title":"LLM agents"
+   OR "Document Title":"LLM-based agent" OR "Document Title":"LLM-based agents"
+   OR "Document Title":"autonomous agent" OR "Document Title":"autonomous agents"
+   OR "Document Title":"language model agent*" OR "Document Title":"computer-use agent*"
+   OR "Document Title":"agent AI" OR "Document Title":"multi-agent LLM"
+   OR "Document Title":"multi-agent LLMs" OR "Document Title":"agent LLM")
+  AND
+  ("Abstract":safety OR "Abstract":security OR "Abstract":trust OR "Abstract":trustworthy
+   OR "Abstract":governance OR "Abstract":compliance OR "Abstract":assurance
+   OR "Abstract":verification OR "Abstract":benchmark OR "Abstract":reliability
+   OR "Abstract":monitoring OR "Abstract":auditing OR "Abstract":accountability
+   OR "Abstract":failure OR "Abstract":hallucination OR "Abstract":guardrails
+   OR "Abstract":risk OR "Abstract":threat OR "Abstract":attack OR "Abstract":drift
+   OR "Abstract":robustness OR "Abstract":behavioral OR "Abstract":uncertainty
+   OR "Abstract":observability OR "Abstract":runtime))
+OR
+(("Document Title":agent OR "Document Title":agents) AND ("Abstract":agentic))
+OR
+("Document Title":"concept drift" OR "Document Title":"data drift" OR "Document Title":"model drift"
+ OR "Document Title":"drift detection" OR "Document Title":"drift adaptation")
+OR
+(("Abstract":"concept drift" OR "Abstract":"model drift" OR "Abstract":"data drift")
+ AND ("Abstract":MLOps OR "Abstract":AIOps OR "Abstract":production OR "Abstract":deployment
+      OR "Abstract":deployed OR "Abstract":retraining OR "Abstract":monitoring
+      OR "Abstract":lifecycle OR "Abstract":operational))
+OR
+("Abstract":"assurance case" OR "Abstract":"assurance cases" OR "Abstract":"safety case"
+ OR "Abstract":"safety cases" OR "Abstract":"goal structuring notation"
+ OR "Abstract":"runtime assurance" OR "Abstract":"verification of autonomous systems")
+OR
+("Abstract":"multi-agent coordination" OR "Abstract":"multiagent coordination"
+ OR "Abstract":"agent coordination")
+OR
+(("Document Title":"multi-agent" OR "Document Title":multiagent)
+ AND ("Abstract":governance OR "Abstract":accountability))
+OR
+("Document Title":"multi-agent coordination" OR "Document Title":"multiagent coordination"
+ OR "Document Title":"agent coordination")
+OR
+("Document Title":agentic AND ("Document Title":benchmark OR "Document Title":evaluation))
